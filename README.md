@@ -1,4 +1,4 @@
-# ¦ Compliance & Risk Data Tracker Framework
+#  Compliance & Risk Data Tracker Framework
 ### Transaction Anomaly Detection Â· Risk Register Â· Remediation Audit Trail
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
@@ -10,7 +10,7 @@
 
 ---
 
-## ðŸ“Œ Project Overview
+##  Project Overview
 
 This project simulates a **Compliance & Risk analytics pipeline** for a digital banking environment,
 covering transaction anomaly detection, customer risk profiling, remediation tracking, and
@@ -31,7 +31,7 @@ risk register maintenance, and FMU (Financial Monitoring Unit) reporting.
 
 ---
 
-## ðŸ“Š Dashboard Screenshots
+##  Dashboard Screenshots
 
 ### KPI Overview
 ![KPI Dashboard](screenshots/01_kpi_dashboard.png)
@@ -53,56 +53,15 @@ risk register maintenance, and FMU (Financial Monitoring Unit) reporting.
 
 ---
 
-## ðŸ—‚ï¸ Project Structure
 
-```
-compliance-risk-tracker/
-â”œâ”€â”€ data/
-â”‚   â”œâ”€â”€ customers.csv
-â”‚   â”œâ”€â”€ transactions.csv
-â”‚   â”œâ”€â”€ anomaly_flags.csv
-â”‚   â”œâ”€â”€ risk_register.csv
-â”‚   â”œâ”€â”€ remediation_log.csv
-â”‚   â””â”€â”€ kpi_summary.csv
-â”œâ”€â”€ scripts/
-â”‚   â”œâ”€â”€ generate_data.py        # Synthetic dataset generation
-â”‚   â””â”€â”€ analysis.py             # KPI computation + 6 chart exports
-â”œâ”€â”€ sql/
-â”‚   â””â”€â”€ schema_and_queries.sql  # PostgreSQL schema + 8 analytical queries
-â”œâ”€â”€ dashboard/
-â”‚   â””â”€â”€ POWERBI_GUIDE.md        # Power BI setup + DAX measures
-â”œâ”€â”€ screenshots/                # Auto-generated chart exports (6 PNGs)
-â”œâ”€â”€ requirements.txt
-â””â”€â”€ README.md
-```
+
+
+
+
 
 ---
 
-## ðŸš€ Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/iabbaszaidi/compliance-risk-tracker.git
-cd compliance-risk-tracker
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Generate synthetic datasets
-python scripts/generate_data.py
-
-# 4. Run analysis & generate charts
-python scripts/analysis.py
-```
-
-For PostgreSQL setup, run `sql/schema_and_queries.sql` in your PostgreSQL client
-(pgAdmin or psql), then load CSVs using the COPY commands at the bottom of the file.
-
-For Power BI setup, follow [`dashboard/POWERBI_GUIDE.md`](dashboard/POWERBI_GUIDE.md).
-
----
-
-## ðŸ“ Key KPIs Tracked
+##  Key KPIs Tracked
 
 | KPI | Value (Sample Run) |
 |-----|--------------------|
@@ -115,7 +74,7 @@ For Power BI setup, follow [`dashboard/POWERBI_GUIDE.md`](dashboard/POWERBI_GUID
 
 ---
 
-## ðŸ” Analytical Highlights
+##  Analytical Highlights
 
 - **Anomaly Detection**: Rule-based + statistical threshold flags on transaction amount outliers
 - **Risk Scoring**: Customer risk profiles (Low / Medium / High) cross-validated against actual anomaly frequency      
@@ -125,7 +84,7 @@ For Power BI setup, follow [`dashboard/POWERBI_GUIDE.md`](dashboard/POWERBI_GUID
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## ¸ Tech Stack
 
 | Tool | Use |
 |------|-----|
@@ -138,7 +97,7 @@ For Power BI setup, follow [`dashboard/POWERBI_GUIDE.md`](dashboard/POWERBI_GUID
 
 ---
 
-## ðŸ‘¤ Author
+##  Author
 
 **Mohammad Abbas**
 BSc Software Engineering â€” University of Karachi (2025)
@@ -148,6 +107,6 @@ Data Analytics Intern â€” Meezan Bank Limited
 
 ---
 
-## ðŸ“„ License
+## „ License
 
 MIT License â€” see [LICENSE](LICENSE)
