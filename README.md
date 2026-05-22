@@ -1,16 +1,12 @@
-# 🏦 Compliance & Risk Data Tracker Framework
-### Transaction Anomaly Detection · Risk Register · Remediation Audit Trail
+# compliance-risk-tracker
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458?logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Domain](https://img.shields.io/badge/Domain-Compliance%20%26%20Risk-C0392B)
-![Status](https://img.shields.io/badge/Status-Complete-1E8449)
+Designed a banking risk analytics system using Python, PostgreSQL, and Power BI to monitor transaction anomalies, risk 
+flags, and remediation status. Built a structured data model with 5 linked tables and 2,942 records, automated reporting
+pipelines, and created governance-style dashboards with KPIs and audit trail tracking.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a **Compliance & Risk analytics pipeline** for a digital banking environment,
 covering transaction anomaly detection, customer risk profiling, remediation tracking, and
@@ -160,6 +156,6 @@ Data Analytics Intern — Meezan Bank Limited
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE)
