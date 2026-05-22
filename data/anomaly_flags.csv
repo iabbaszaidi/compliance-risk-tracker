@@ -1,0 +1,312 @@
+anomaly_id,txn_id,customer_id,detection_date,risk_category,severity,amount_pkr,anomaly_score,detection_method,assigned_analyst,status,resolution_date,branch
+ANO-0001,TXN-00003,CUST-0066,2025-01-05,Dormant Account Activation,Critical,630560.79,0.918,Rule-Based,Analyst_B,Open,2025-01-09,Karachi-Clifton
+ANO-0002,TXN-00006,CUST-0111,2024-09-24,Dormant Account Activation,Critical,540861.43,0.818,Peer Group Analysis,Compliance_Team,Cleared,2024-11-03,Karachi-Clifton
+ANO-0003,TXN-00009,CUST-0025,2024-10-04,AML Suspicion,Low,672765.01,0.968,Velocity Check,Analyst_C,Under Review,2024-10-11,Quetta-Branch
+ANO-0004,TXN-00016,CUST-0078,2025-01-07,Dormant Account Activation,High,27961.86,0.869,Peer Group Analysis,Analyst_A,Under Review,2025-02-05,Karachi-Clifton
+ANO-0005,TXN-00018,CUST-0186,2025-02-19,Rapid Fund Movement,High,108808.77,0.564,Statistical Threshold,Analyst_A,Under Review,2025-03-31,Islamabad-Blue Area
+ANO-0006,TXN-00020,CUST-0189,2024-02-13,High-Value Cash,Low,2055090.61,0.565,Velocity Check,Analyst_B,Open,2024-03-05,Karachi-Clifton
+ANO-0007,TXN-00028,CUST-0056,2024-01-22,Structuring,Medium,447740.79,0.953,Peer Group Analysis,Compliance_Team,Reported,2024-02-08,Islamabad-Blue Area
+ANO-0008,TXN-00034,CUST-0086,2024-11-14,Dormant Account Activation,High,1646057.87,0.922,Velocity Check,Analyst_C,Reported,2024-11-20,Faisalabad-Central
+ANO-0009,TXN-00035,CUST-0120,2024-06-30,Rapid Fund Movement,High,965334.72,0.955,Statistical Threshold,Compliance_Team,Escalated,2024-07-04,Quetta-Branch
+ANO-0010,TXN-00044,CUST-0117,2024-02-20,Unusual Velocity,High,70763.88,0.758,Velocity Check,Analyst_A,Open,2024-03-07,Karachi-Clifton
+ANO-0011,TXN-00046,CUST-0142,2024-12-23,Unusual Velocity,High,1670510.79,0.936,Peer Group Analysis,Analyst_A,Reported,2025-01-31,Lahore-Gulberg
+ANO-0012,TXN-00054,CUST-0130,2024-06-15,Cross-Border Alert,Medium,3178671.91,0.576,Peer Group Analysis,Compliance_Team,Reported,2024-07-14,Islamabad-Blue Area
+ANO-0013,TXN-00064,CUST-0062,2024-01-12,Cross-Border Alert,High,1783719.98,0.684,Peer Group Analysis,Analyst_B,Escalated,2024-01-15,Islamabad-Blue Area
+ANO-0014,TXN-00067,CUST-0096,2025-01-01,Rapid Fund Movement,High,85922.32,0.803,Statistical Threshold,Analyst_B,Open,2025-01-11,Faisalabad-Central
+ANO-0015,TXN-00070,CUST-0048,2025-01-07,AML Suspicion,High,103604.68,0.845,Velocity Check,Compliance_Team,Cleared,2025-02-19,Islamabad-Blue Area
+ANO-0016,TXN-00071,CUST-0091,2024-05-19,Sanctioned Entity,Medium,338913.91,0.988,Statistical Threshold,Analyst_C,Cleared,2024-06-26,Quetta-Branch
+ANO-0017,TXN-00094,CUST-0090,2024-05-06,Structuring,Medium,361341.04,0.688,Peer Group Analysis,Analyst_B,Reported,2024-05-31,Karachi-Clifton
+ANO-0018,TXN-00096,CUST-0082,2024-05-28,High-Value Cash,Medium,2970008.39,0.836,Peer Group Analysis,Compliance_Team,Reported,2024-06-29,Lahore-Gulberg
+ANO-0019,TXN-00107,CUST-0168,2025-04-02,Unusual Velocity,Critical,6436868.07,0.924,Rule-Based,Analyst_C,Cleared,2025-04-08,Karachi-Clifton
+ANO-0020,TXN-00110,CUST-0144,2024-05-08,Unusual Velocity,Medium,719792.72,0.858,Statistical Threshold,Compliance_Team,Open,2024-06-07,Karachi-Main
+ANO-0021,TXN-00125,CUST-0112,2024-04-01,Dormant Account Activation,Low,5024789.1,0.778,Statistical Threshold,Analyst_B,Open,2024-04-10,Karachi-Main
+ANO-0022,TXN-00127,CUST-0025,2025-02-06,Structuring,High,1865844.86,0.817,Velocity Check,Analyst_C,Cleared,2025-02-27,Quetta-Branch
+ANO-0023,TXN-00134,CUST-0061,2024-06-08,Unusual Velocity,Medium,2059212.38,0.972,Velocity Check,Compliance_Team,Cleared,2024-07-07,Lahore-Gulberg
+ANO-0024,TXN-00135,CUST-0098,2025-03-28,Rapid Fund Movement,Medium,212739.72,0.873,Peer Group Analysis,Analyst_B,Cleared,2025-04-29,Lahore-Gulberg
+ANO-0025,TXN-00143,CUST-0002,2025-02-06,AML Suspicion,High,322667.0,0.745,Rule-Based,Analyst_C,Reported,2025-02-12,Quetta-Branch
+ANO-0026,TXN-00144,CUST-0108,2025-03-24,Unusual Velocity,Medium,90969.17,0.768,Rule-Based,Analyst_C,Cleared,2025-04-27,Lahore-Gulberg
+ANO-0027,TXN-00145,CUST-0083,2024-03-22,AML Suspicion,Medium,1434034.59,0.772,Peer Group Analysis,Analyst_A,Open,2024-04-10,Karachi-Main
+ANO-0028,TXN-00148,CUST-0118,2024-07-24,High-Value Cash,Medium,7259732.27,0.666,Rule-Based,Analyst_B,Reported,2024-08-27,Lahore-Gulberg
+ANO-0029,TXN-00160,CUST-0109,2024-06-26,Rapid Fund Movement,High,1290887.86,0.754,Peer Group Analysis,Analyst_B,Cleared,2024-07-01,Karachi-Clifton
+ANO-0030,TXN-00167,CUST-0041,2024-02-26,AML Suspicion,High,745332.42,0.756,Statistical Threshold,Analyst_B,Cleared,2024-04-07,Karachi-Clifton
+ANO-0031,TXN-00169,CUST-0070,2024-09-11,Unusual Velocity,Critical,4324324.38,0.592,Rule-Based,Analyst_A,Open,2024-10-02,Islamabad-Blue Area
+ANO-0032,TXN-00177,CUST-0200,2024-12-15,Unusual Velocity,Critical,935121.19,0.827,Velocity Check,Analyst_B,Open,2025-01-06,Faisalabad-Central
+ANO-0033,TXN-00181,CUST-0113,2024-08-19,Unusual Velocity,High,3358.6,0.593,Rule-Based,Compliance_Team,Open,2024-08-24,Karachi-Clifton
+ANO-0034,TXN-00189,CUST-0085,2024-10-23,Dormant Account Activation,High,524961.15,0.683,Rule-Based,Compliance_Team,Open,2024-10-31,Lahore-Gulberg
+ANO-0035,TXN-00192,CUST-0161,2024-03-06,Rapid Fund Movement,Critical,817019.09,0.648,Rule-Based,Compliance_Team,Open,2024-03-19,Karachi-Main
+ANO-0036,TXN-00201,CUST-0156,2024-03-15,Cross-Border Alert,Low,3792486.04,0.892,Velocity Check,Compliance_Team,Open,2024-04-22,Karachi-Main
+ANO-0037,TXN-00212,CUST-0047,2024-09-07,Dormant Account Activation,Low,38883.02,0.982,Peer Group Analysis,Compliance_Team,Reported,2024-10-18,Karachi-Clifton
+ANO-0038,TXN-00237,CUST-0182,2024-06-18,Rapid Fund Movement,Low,30603.89,0.592,Statistical Threshold,Analyst_C,Under Review,2024-07-22,Lahore-Gulberg
+ANO-0039,TXN-00253,CUST-0137,2024-09-14,Rapid Fund Movement,Medium,352828.52,0.784,Statistical Threshold,Analyst_C,Cleared,2024-09-30,Lahore-Gulberg
+ANO-0040,TXN-00255,CUST-0015,2024-03-09,Sanctioned Entity,Critical,2991976.01,0.589,Velocity Check,Analyst_C,Reported,2024-04-16,Faisalabad-Central
+ANO-0041,TXN-00256,CUST-0042,2025-03-09,Sanctioned Entity,Critical,1184761.27,0.663,Rule-Based,Compliance_Team,Open,2025-04-02,Quetta-Branch
+ANO-0042,TXN-00268,CUST-0173,2024-04-11,Sanctioned Entity,Low,81043.22,0.602,Velocity Check,Analyst_C,Escalated,2024-05-13,Karachi-Clifton
+ANO-0043,TXN-00286,CUST-0085,2024-04-14,Rapid Fund Movement,Low,12122.5,0.573,Velocity Check,Analyst_B,Open,2024-05-01,Lahore-Gulberg
+ANO-0044,TXN-00289,CUST-0186,2024-12-13,Dormant Account Activation,High,16401.29,0.598,Velocity Check,Compliance_Team,Reported,2025-01-13,Islamabad-Blue Area
+ANO-0045,TXN-00297,CUST-0197,2024-04-03,High-Value Cash,Medium,60247.05,0.877,Rule-Based,Analyst_A,Cleared,2024-04-08,Faisalabad-Central
+ANO-0046,TXN-00299,CUST-0067,2024-01-30,Sanctioned Entity,Medium,2583826.64,0.894,Statistical Threshold,Compliance_Team,Reported,2024-02-10,Karachi-Clifton
+ANO-0047,TXN-00304,CUST-0185,2024-05-28,High-Value Cash,High,474931.66,0.657,Rule-Based,Analyst_A,Open,2024-06-29,Faisalabad-Central
+ANO-0048,TXN-00312,CUST-0073,2025-02-26,Rapid Fund Movement,Medium,139995.96,0.783,Statistical Threshold,Compliance_Team,Open,2025-03-13,Quetta-Branch
+ANO-0049,TXN-00314,CUST-0187,2025-03-14,Sanctioned Entity,Medium,133792.78,0.832,Statistical Threshold,Compliance_Team,Reported,2025-04-15,Islamabad-Blue Area
+ANO-0050,TXN-00318,CUST-0189,2024-04-17,Structuring,Low,1274472.01,0.694,Rule-Based,Analyst_C,Escalated,2024-06-01,Karachi-Clifton
+ANO-0051,TXN-00322,CUST-0196,2024-08-12,Rapid Fund Movement,Critical,566307.93,0.637,Velocity Check,Compliance_Team,Cleared,2024-08-24,Islamabad-Blue Area
+ANO-0052,TXN-00326,CUST-0033,2024-08-19,Sanctioned Entity,Critical,7639525.87,0.564,Rule-Based,Analyst_B,Under Review,2024-08-30,Faisalabad-Central
+ANO-0053,TXN-00328,CUST-0083,2024-04-03,AML Suspicion,Medium,28124846.34,0.696,Peer Group Analysis,Analyst_A,Cleared,2024-04-30,Karachi-Main
+ANO-0054,TXN-00329,CUST-0190,2025-02-17,Sanctioned Entity,High,8205227.6,0.81,Peer Group Analysis,Compliance_Team,Under Review,2025-03-24,Faisalabad-Central
+ANO-0055,TXN-00330,CUST-0112,2024-04-06,Dormant Account Activation,High,304013.35,0.661,Peer Group Analysis,Compliance_Team,Reported,2024-04-11,Karachi-Main
+ANO-0056,TXN-00335,CUST-0038,2024-03-18,High-Value Cash,High,6581419.9,0.923,Statistical Threshold,Compliance_Team,Escalated,2024-04-28,Islamabad-Blue Area
+ANO-0057,TXN-00341,CUST-0133,2024-12-23,Sanctioned Entity,Critical,66312553.1,0.805,Peer Group Analysis,Analyst_A,Cleared,2025-01-07,Karachi-Clifton
+ANO-0058,TXN-00343,CUST-0086,2024-11-24,Cross-Border Alert,Medium,2117259.18,0.788,Velocity Check,Analyst_A,Reported,2024-12-07,Faisalabad-Central
+ANO-0059,TXN-00349,CUST-0044,2024-04-05,Cross-Border Alert,High,1835519.04,0.604,Peer Group Analysis,Analyst_C,Reported,2024-05-05,Islamabad-Blue Area
+ANO-0060,TXN-00350,CUST-0027,2025-01-30,AML Suspicion,Low,780312.34,0.75,Velocity Check,Analyst_A,Escalated,2025-02-12,Lahore-Gulberg
+ANO-0061,TXN-00351,CUST-0058,2024-07-24,Sanctioned Entity,Medium,154698.69,0.827,Rule-Based,Analyst_B,Under Review,2024-08-04,Faisalabad-Central
+ANO-0062,TXN-00352,CUST-0030,2024-06-14,Cross-Border Alert,High,230399.75,0.658,Rule-Based,Analyst_B,Escalated,2024-07-05,Quetta-Branch
+ANO-0063,TXN-00357,CUST-0051,2024-06-02,Structuring,Medium,1970170.18,0.792,Rule-Based,Analyst_C,Open,2024-07-12,Islamabad-Blue Area
+ANO-0064,TXN-00367,CUST-0079,2024-06-26,AML Suspicion,High,103279.16,0.943,Rule-Based,Compliance_Team,Reported,2024-07-15,Lahore-Gulberg
+ANO-0065,TXN-00371,CUST-0096,2024-01-16,AML Suspicion,High,614276.3,0.635,Velocity Check,Analyst_A,Escalated,2024-02-12,Faisalabad-Central
+ANO-0066,TXN-00372,CUST-0183,2024-05-08,High-Value Cash,Low,6520787.65,0.838,Statistical Threshold,Compliance_Team,Open,2024-05-18,Karachi-Clifton
+ANO-0067,TXN-00379,CUST-0059,2024-06-05,AML Suspicion,Critical,132131.46,0.875,Statistical Threshold,Analyst_B,Cleared,2024-07-12,Quetta-Branch
+ANO-0068,TXN-00387,CUST-0025,2025-02-08,Rapid Fund Movement,Medium,523145.74,0.954,Velocity Check,Analyst_B,Cleared,2025-03-06,Quetta-Branch
+ANO-0069,TXN-00390,CUST-0042,2024-02-01,Unusual Velocity,Critical,520932.18,0.807,Velocity Check,Compliance_Team,Open,2024-02-08,Quetta-Branch
+ANO-0070,TXN-00393,CUST-0083,2024-02-23,Cross-Border Alert,Medium,765036.55,0.736,Velocity Check,Compliance_Team,Escalated,2024-03-01,Karachi-Main
+ANO-0071,TXN-00396,CUST-0023,2024-08-14,Rapid Fund Movement,Critical,2497714.9,0.77,Statistical Threshold,Analyst_B,Open,2024-09-12,Karachi-Clifton
+ANO-0072,TXN-00398,CUST-0143,2025-02-20,AML Suspicion,High,927923.1,0.755,Statistical Threshold,Analyst_A,Reported,2025-03-07,Karachi-Clifton
+ANO-0073,TXN-00400,CUST-0034,2025-02-02,Sanctioned Entity,High,701586.23,0.663,Peer Group Analysis,Analyst_B,Escalated,2025-02-19,Faisalabad-Central
+ANO-0074,TXN-00408,CUST-0075,2024-02-28,High-Value Cash,Low,3292254.61,0.581,Peer Group Analysis,Analyst_A,Reported,2024-04-06,Faisalabad-Central
+ANO-0075,TXN-00412,CUST-0198,2024-12-09,Rapid Fund Movement,Low,1544748.13,0.612,Statistical Threshold,Analyst_B,Open,2024-12-15,Karachi-Clifton
+ANO-0076,TXN-00417,CUST-0128,2025-03-25,Structuring,Medium,1197763.94,0.895,Peer Group Analysis,Analyst_A,Cleared,2025-05-02,Faisalabad-Central
+ANO-0077,TXN-00418,CUST-0004,2024-07-28,Rapid Fund Movement,Critical,225301.01,0.708,Peer Group Analysis,Analyst_B,Reported,2024-08-24,Quetta-Branch
+ANO-0078,TXN-00420,CUST-0074,2024-07-14,AML Suspicion,High,185788.28,0.667,Statistical Threshold,Analyst_A,Cleared,2024-07-25,Karachi-Main
+ANO-0079,TXN-00427,CUST-0059,2025-03-23,AML Suspicion,Medium,405196.0,0.98,Rule-Based,Analyst_B,Escalated,2025-04-30,Quetta-Branch
+ANO-0080,TXN-00432,CUST-0165,2024-03-09,Structuring,Low,252070.04,0.862,Rule-Based,Analyst_A,Reported,2024-03-17,Karachi-Main
+ANO-0081,TXN-00436,CUST-0082,2024-02-17,Sanctioned Entity,Critical,4640690.35,0.639,Velocity Check,Compliance_Team,Under Review,2024-03-12,Lahore-Gulberg
+ANO-0082,TXN-00438,CUST-0075,2024-04-19,Structuring,Medium,542631.85,0.616,Peer Group Analysis,Analyst_C,Escalated,2024-06-03,Faisalabad-Central
+ANO-0083,TXN-00442,CUST-0170,2024-11-19,High-Value Cash,Low,636569.79,0.724,Peer Group Analysis,Analyst_A,Open,2024-11-29,Karachi-Clifton
+ANO-0084,TXN-00446,CUST-0188,2024-06-02,Rapid Fund Movement,Medium,291549.07,0.72,Velocity Check,Analyst_B,Escalated,2024-06-09,Lahore-Gulberg
+ANO-0085,TXN-00452,CUST-0072,2024-11-09,Sanctioned Entity,Medium,93618.14,0.95,Peer Group Analysis,Compliance_Team,Under Review,2024-11-21,Karachi-Main
+ANO-0086,TXN-00461,CUST-0184,2024-02-15,Unusual Velocity,Low,323693.21,0.947,Velocity Check,Analyst_C,Open,2024-02-23,Karachi-Main
+ANO-0087,TXN-00468,CUST-0021,2024-11-10,AML Suspicion,Critical,289626.8,0.638,Peer Group Analysis,Analyst_B,Cleared,2024-11-17,Islamabad-Blue Area
+ANO-0088,TXN-00469,CUST-0030,2024-04-25,Dormant Account Activation,Critical,4399283.71,0.601,Rule-Based,Analyst_B,Open,2024-05-13,Quetta-Branch
+ANO-0089,TXN-00495,CUST-0180,2024-03-09,Sanctioned Entity,High,16095544.34,0.556,Velocity Check,Analyst_A,Cleared,2024-03-18,Quetta-Branch
+ANO-0090,TXN-00505,CUST-0144,2024-03-31,High-Value Cash,Low,2765483.03,0.726,Rule-Based,Compliance_Team,Escalated,2024-04-22,Karachi-Main
+ANO-0091,TXN-00517,CUST-0166,2024-07-12,Sanctioned Entity,Low,138687.45,0.727,Velocity Check,Analyst_C,Escalated,2024-08-13,Islamabad-Blue Area
+ANO-0092,TXN-00525,CUST-0050,2025-01-16,Structuring,High,59183.82,0.919,Rule-Based,Compliance_Team,Under Review,2025-02-07,Faisalabad-Central
+ANO-0093,TXN-00528,CUST-0125,2025-03-14,Sanctioned Entity,Low,1136731.6,0.609,Rule-Based,Compliance_Team,Under Review,2025-04-16,Karachi-Main
+ANO-0094,TXN-00533,CUST-0177,2024-12-15,Dormant Account Activation,High,288914.33,0.574,Velocity Check,Analyst_B,Open,2024-12-30,Faisalabad-Central
+ANO-0095,TXN-00534,CUST-0172,2024-09-23,Cross-Border Alert,High,331601.81,0.848,Rule-Based,Analyst_C,Open,2024-10-14,Quetta-Branch
+ANO-0096,TXN-00539,CUST-0021,2024-03-10,Dormant Account Activation,Medium,2023545.07,0.982,Velocity Check,Analyst_B,Open,2024-04-11,Islamabad-Blue Area
+ANO-0097,TXN-00544,CUST-0006,2024-10-01,Dormant Account Activation,Low,102696.15,0.62,Statistical Threshold,Analyst_A,Under Review,2024-11-02,Karachi-Clifton
+ANO-0098,TXN-00550,CUST-0150,2024-01-10,AML Suspicion,Critical,5916783.51,0.864,Velocity Check,Compliance_Team,Reported,2024-02-24,Karachi-Main
+ANO-0099,TXN-00552,CUST-0082,2024-07-26,Sanctioned Entity,High,608150.55,0.594,Statistical Threshold,Compliance_Team,Reported,2024-08-25,Lahore-Gulberg
+ANO-0100,TXN-00572,CUST-0142,2024-11-04,Unusual Velocity,Low,41350.48,0.84,Velocity Check,Compliance_Team,Open,2024-11-29,Lahore-Gulberg
+ANO-0101,TXN-00574,CUST-0008,2024-10-19,Rapid Fund Movement,Medium,19106587.69,0.904,Rule-Based,Analyst_C,Open,2024-11-21,Quetta-Branch
+ANO-0102,TXN-00578,CUST-0006,2024-07-23,Structuring,Medium,171561.71,0.806,Peer Group Analysis,Analyst_B,Open,2024-07-28,Karachi-Clifton
+ANO-0103,TXN-00583,CUST-0117,2025-02-21,High-Value Cash,Low,110926.5,0.643,Peer Group Analysis,Analyst_A,Open,2025-03-04,Karachi-Clifton
+ANO-0104,TXN-00591,CUST-0015,2024-03-09,Unusual Velocity,High,8044173.55,0.784,Peer Group Analysis,Analyst_A,Escalated,2024-04-22,Faisalabad-Central
+ANO-0105,TXN-00598,CUST-0063,2025-03-13,Unusual Velocity,Critical,3360945.18,0.803,Velocity Check,Analyst_A,Cleared,2025-04-19,Lahore-Gulberg
+ANO-0106,TXN-00605,CUST-0081,2024-03-11,Structuring,High,134236161.2,0.922,Peer Group Analysis,Analyst_B,Open,2024-04-07,Karachi-Clifton
+ANO-0107,TXN-00618,CUST-0122,2024-01-21,Sanctioned Entity,Critical,2741181.53,0.828,Statistical Threshold,Analyst_B,Escalated,2024-02-15,Faisalabad-Central
+ANO-0108,TXN-00629,CUST-0057,2024-08-20,Cross-Border Alert,Critical,3987705.24,0.749,Rule-Based,Analyst_B,Escalated,2024-10-03,Karachi-Clifton
+ANO-0109,TXN-00649,CUST-0137,2024-05-06,Rapid Fund Movement,High,968806.24,0.654,Rule-Based,Analyst_B,Under Review,2024-06-02,Lahore-Gulberg
+ANO-0110,TXN-00650,CUST-0037,2025-03-04,Dormant Account Activation,High,30597181.64,0.922,Velocity Check,Analyst_C,Open,2025-03-17,Karachi-Main
+ANO-0111,TXN-00667,CUST-0101,2024-02-21,Sanctioned Entity,High,19783272.69,0.712,Rule-Based,Analyst_C,Cleared,2024-03-18,Karachi-Clifton
+ANO-0112,TXN-00674,CUST-0028,2025-02-21,Dormant Account Activation,High,3433834.6,0.895,Statistical Threshold,Analyst_C,Under Review,2025-04-04,Islamabad-Blue Area
+ANO-0113,TXN-00675,CUST-0134,2025-01-25,Structuring,Medium,247691.62,0.561,Statistical Threshold,Analyst_B,Escalated,2025-02-25,Quetta-Branch
+ANO-0114,TXN-00676,CUST-0137,2024-03-04,Sanctioned Entity,High,1835517.8,0.941,Rule-Based,Analyst_A,Open,2024-03-21,Lahore-Gulberg
+ANO-0115,TXN-00682,CUST-0159,2024-08-28,Sanctioned Entity,High,16287157.42,0.747,Velocity Check,Analyst_A,Cleared,2024-09-08,Islamabad-Blue Area
+ANO-0116,TXN-00687,CUST-0100,2024-04-20,High-Value Cash,High,15452.45,0.611,Rule-Based,Analyst_A,Open,2024-05-12,Islamabad-Blue Area
+ANO-0117,TXN-00688,CUST-0132,2025-01-18,Sanctioned Entity,Critical,153090.05,0.896,Statistical Threshold,Compliance_Team,Open,2025-01-26,Quetta-Branch
+ANO-0118,TXN-00696,CUST-0111,2025-01-06,AML Suspicion,High,320930.93,0.776,Velocity Check,Analyst_A,Under Review,2025-02-05,Karachi-Clifton
+ANO-0119,TXN-00713,CUST-0085,2024-05-16,Structuring,Low,501601.18,0.592,Velocity Check,Analyst_C,Reported,2024-06-30,Lahore-Gulberg
+ANO-0120,TXN-00715,CUST-0042,2025-04-01,Dormant Account Activation,Medium,102261.2,0.946,Rule-Based,Compliance_Team,Cleared,2025-05-09,Quetta-Branch
+ANO-0121,TXN-00717,CUST-0124,2024-11-29,Unusual Velocity,Medium,1212923.97,0.611,Peer Group Analysis,Analyst_A,Under Review,2025-01-07,Karachi-Clifton
+ANO-0122,TXN-00723,CUST-0167,2025-02-23,Cross-Border Alert,Medium,51525.14,0.939,Rule-Based,Compliance_Team,Reported,2025-03-25,Faisalabad-Central
+ANO-0123,TXN-00729,CUST-0198,2024-01-07,Structuring,High,1301458.39,0.865,Peer Group Analysis,Analyst_B,Open,2024-02-02,Karachi-Clifton
+ANO-0124,TXN-00730,CUST-0140,2024-05-11,AML Suspicion,Critical,1378632.66,0.554,Statistical Threshold,Analyst_B,Open,2024-06-13,Lahore-Gulberg
+ANO-0125,TXN-00735,CUST-0025,2024-06-03,High-Value Cash,High,17494761.66,0.761,Statistical Threshold,Compliance_Team,Escalated,2024-07-15,Quetta-Branch
+ANO-0126,TXN-00736,CUST-0007,2025-01-10,Rapid Fund Movement,Low,1275063.36,0.862,Peer Group Analysis,Analyst_A,Open,2025-02-13,Faisalabad-Central
+ANO-0127,TXN-00737,CUST-0098,2024-10-27,Cross-Border Alert,Critical,201761.56,0.765,Velocity Check,Analyst_A,Under Review,2024-11-29,Lahore-Gulberg
+ANO-0128,TXN-00745,CUST-0171,2024-05-17,Cross-Border Alert,Low,733242.28,0.856,Velocity Check,Compliance_Team,Escalated,2024-05-24,Faisalabad-Central
+ANO-0129,TXN-00747,CUST-0001,2024-08-10,Structuring,Low,2243873.56,0.931,Rule-Based,Analyst_A,Open,2024-08-20,Karachi-Clifton
+ANO-0130,TXN-00759,CUST-0076,2024-03-22,Sanctioned Entity,High,2923370.07,0.961,Velocity Check,Compliance_Team,Under Review,2024-04-26,Karachi-Clifton
+ANO-0131,TXN-00774,CUST-0041,2024-10-01,Cross-Border Alert,Low,3479485.73,0.881,Velocity Check,Analyst_C,Open,2024-10-25,Karachi-Clifton
+ANO-0132,TXN-00777,CUST-0023,2024-05-11,AML Suspicion,High,1312821.03,0.594,Velocity Check,Analyst_C,Open,2024-05-16,Karachi-Clifton
+ANO-0133,TXN-00783,CUST-0165,2025-03-08,AML Suspicion,Low,149578.35,0.776,Rule-Based,Analyst_A,Cleared,2025-03-15,Karachi-Main
+ANO-0134,TXN-00795,CUST-0021,2024-06-21,Sanctioned Entity,High,730685.69,0.854,Velocity Check,Analyst_A,Cleared,2024-07-30,Islamabad-Blue Area
+ANO-0135,TXN-00797,CUST-0163,2025-01-28,Unusual Velocity,High,2105997.89,0.816,Velocity Check,Analyst_C,Escalated,2025-02-24,Karachi-Main
+ANO-0136,TXN-00798,CUST-0175,2025-03-01,Rapid Fund Movement,Medium,63632.77,0.677,Rule-Based,Compliance_Team,Open,2025-03-30,Lahore-Gulberg
+ANO-0137,TXN-00800,CUST-0123,2024-09-20,Dormant Account Activation,Critical,673969.04,0.78,Statistical Threshold,Analyst_C,Under Review,2024-11-03,Lahore-Gulberg
+ANO-0138,TXN-00805,CUST-0188,2024-05-19,Sanctioned Entity,High,3447701.67,0.849,Velocity Check,Analyst_B,Escalated,2024-06-09,Lahore-Gulberg
+ANO-0139,TXN-00815,CUST-0012,2025-02-18,Cross-Border Alert,High,114088863.15,0.62,Peer Group Analysis,Analyst_C,Open,2025-02-23,Faisalabad-Central
+ANO-0140,TXN-00818,CUST-0011,2025-02-14,Rapid Fund Movement,Medium,49309.0,0.665,Peer Group Analysis,Analyst_B,Escalated,2025-03-05,Faisalabad-Central
+ANO-0141,TXN-00820,CUST-0142,2024-11-29,Rapid Fund Movement,Low,9062985.43,0.786,Velocity Check,Compliance_Team,Escalated,2024-12-23,Lahore-Gulberg
+ANO-0142,TXN-00828,CUST-0180,2024-08-25,Dormant Account Activation,Low,1940176.53,0.923,Peer Group Analysis,Analyst_B,Cleared,2024-09-14,Quetta-Branch
+ANO-0143,TXN-00832,CUST-0145,2024-03-15,Structuring,Medium,134800.16,0.688,Velocity Check,Analyst_B,Reported,2024-03-19,Karachi-Clifton
+ANO-0144,TXN-00835,CUST-0008,2025-03-26,Structuring,High,750110.65,0.58,Rule-Based,Compliance_Team,Open,2025-04-07,Quetta-Branch
+ANO-0145,TXN-00857,CUST-0081,2024-03-21,Cross-Border Alert,High,34592.6,0.836,Rule-Based,Compliance_Team,Escalated,2024-03-31,Karachi-Clifton
+ANO-0146,TXN-00865,CUST-0081,2024-07-11,Structuring,Medium,170264.9,0.682,Rule-Based,Compliance_Team,Escalated,2024-08-06,Karachi-Clifton
+ANO-0147,TXN-00866,CUST-0129,2024-12-14,Cross-Border Alert,Low,3538064.22,0.9,Rule-Based,Compliance_Team,Open,2024-12-24,Islamabad-Blue Area
+ANO-0148,TXN-00870,CUST-0009,2024-01-05,Unusual Velocity,High,1885309.55,0.778,Rule-Based,Compliance_Team,Reported,2024-01-13,Karachi-Main
+ANO-0149,TXN-00871,CUST-0189,2025-02-28,Sanctioned Entity,Low,31057.67,0.892,Statistical Threshold,Analyst_C,Under Review,2025-03-25,Karachi-Clifton
+ANO-0150,TXN-00877,CUST-0137,2024-01-22,Cross-Border Alert,Medium,4049193.14,0.732,Rule-Based,Compliance_Team,Under Review,2024-03-02,Lahore-Gulberg
+ANO-0151,TXN-00887,CUST-0016,2025-01-15,Cross-Border Alert,Medium,377853.68,0.796,Statistical Threshold,Analyst_B,Open,2025-01-21,Karachi-Clifton
+ANO-0152,TXN-00889,CUST-0157,2024-01-12,AML Suspicion,Medium,82065.34,0.919,Peer Group Analysis,Compliance_Team,Cleared,2024-02-05,Karachi-Main
+ANO-0153,TXN-00896,CUST-0101,2024-10-04,Sanctioned Entity,High,136919.8,0.782,Rule-Based,Compliance_Team,Under Review,2024-10-31,Karachi-Clifton
+ANO-0154,TXN-00897,CUST-0092,2024-01-10,Sanctioned Entity,High,634885.46,0.919,Peer Group Analysis,Analyst_B,Open,2024-01-29,Karachi-Clifton
+ANO-0155,TXN-00928,CUST-0166,2024-05-02,Structuring,High,507297.16,0.755,Rule-Based,Compliance_Team,Under Review,2024-05-17,Islamabad-Blue Area
+ANO-0156,TXN-00936,CUST-0147,2024-03-08,Rapid Fund Movement,Critical,410972.89,0.875,Velocity Check,Analyst_A,Open,2024-04-10,Islamabad-Blue Area
+ANO-0157,TXN-00948,CUST-0011,2024-11-09,Cross-Border Alert,Medium,132623.2,0.988,Statistical Threshold,Analyst_C,Cleared,2024-11-24,Faisalabad-Central
+ANO-0158,TXN-00952,CUST-0146,2024-12-16,Dormant Account Activation,Medium,1757191.4,0.96,Statistical Threshold,Analyst_C,Reported,2025-01-20,Quetta-Branch
+ANO-0159,TXN-00956,CUST-0077,2025-01-07,Sanctioned Entity,High,192464.14,0.834,Velocity Check,Analyst_B,Reported,2025-02-07,Faisalabad-Central
+ANO-0160,TXN-00962,CUST-0168,2024-02-19,Unusual Velocity,Low,2910768.93,0.57,Peer Group Analysis,Analyst_C,Reported,2024-03-12,Karachi-Clifton
+ANO-0161,TXN-00966,CUST-0190,2024-08-04,Rapid Fund Movement,Medium,2551782.02,0.921,Statistical Threshold,Analyst_B,Escalated,2024-08-15,Faisalabad-Central
+ANO-0162,TXN-00982,CUST-0122,2025-01-31,Structuring,Critical,5900214.64,0.875,Rule-Based,Compliance_Team,Reported,2025-02-07,Faisalabad-Central
+ANO-0163,TXN-00986,CUST-0094,2024-09-05,Rapid Fund Movement,Medium,18164099.85,0.703,Statistical Threshold,Compliance_Team,Reported,2024-10-07,Quetta-Branch
+ANO-0164,TXN-00987,CUST-0176,2024-06-29,Dormant Account Activation,High,1282126.05,0.874,Velocity Check,Compliance_Team,Cleared,2024-08-04,Islamabad-Blue Area
+ANO-0165,TXN-00995,CUST-0038,2024-09-28,Dormant Account Activation,High,1667309.19,0.898,Statistical Threshold,Compliance_Team,Under Review,2024-11-04,Islamabad-Blue Area
+ANO-0166,TXN-01001,CUST-0126,2024-08-05,Sanctioned Entity,High,1145660.18,0.81,Peer Group Analysis,Analyst_C,Reported,2024-09-11,Islamabad-Blue Area
+ANO-0167,TXN-01004,CUST-0013,2024-06-11,Rapid Fund Movement,Medium,5855490.04,0.904,Peer Group Analysis,Analyst_A,Open,2024-06-27,Quetta-Branch
+ANO-0168,TXN-01021,CUST-0108,2025-03-19,Dormant Account Activation,High,2962818.13,0.974,Rule-Based,Analyst_A,Under Review,2025-04-24,Lahore-Gulberg
+ANO-0169,TXN-01027,CUST-0167,2025-03-28,Sanctioned Entity,High,1250653.82,0.591,Velocity Check,Analyst_B,Open,2025-04-25,Faisalabad-Central
+ANO-0170,TXN-01033,CUST-0146,2025-03-13,High-Value Cash,High,5737586.86,0.626,Statistical Threshold,Analyst_C,Cleared,2025-03-18,Quetta-Branch
+ANO-0171,TXN-01043,CUST-0130,2024-02-25,Unusual Velocity,Low,43990.1,0.938,Velocity Check,Analyst_C,Cleared,2024-03-09,Islamabad-Blue Area
+ANO-0172,TXN-01053,CUST-0096,2024-03-22,Cross-Border Alert,High,2024582.71,0.606,Statistical Threshold,Analyst_C,Reported,2024-04-25,Faisalabad-Central
+ANO-0173,TXN-01062,CUST-0079,2024-01-03,Sanctioned Entity,Medium,414351.71,0.921,Peer Group Analysis,Analyst_C,Under Review,2024-01-26,Lahore-Gulberg
+ANO-0174,TXN-01064,CUST-0084,2024-02-23,Unusual Velocity,Critical,18989.34,0.875,Velocity Check,Analyst_B,Reported,2024-03-21,Islamabad-Blue Area
+ANO-0175,TXN-01066,CUST-0197,2024-04-04,Structuring,Low,1425418.37,0.667,Statistical Threshold,Analyst_C,Cleared,2024-05-16,Faisalabad-Central
+ANO-0176,TXN-01068,CUST-0027,2024-09-16,Unusual Velocity,High,1295633.17,0.605,Statistical Threshold,Analyst_A,Escalated,2024-10-30,Lahore-Gulberg
+ANO-0177,TXN-01084,CUST-0146,2024-07-17,High-Value Cash,High,1198400.84,0.639,Rule-Based,Analyst_A,Escalated,2024-08-17,Quetta-Branch
+ANO-0178,TXN-01097,CUST-0007,2024-09-05,Rapid Fund Movement,Critical,231126.79,0.618,Peer Group Analysis,Analyst_B,Escalated,2024-10-06,Faisalabad-Central
+ANO-0179,TXN-01120,CUST-0001,2025-04-02,High-Value Cash,Low,2665445.11,0.907,Velocity Check,Analyst_B,Escalated,2025-04-19,Karachi-Clifton
+ANO-0180,TXN-01123,CUST-0112,2024-05-01,Structuring,High,290146.86,0.91,Velocity Check,Analyst_C,Reported,2024-05-09,Karachi-Main
+ANO-0181,TXN-01138,CUST-0103,2024-04-23,Sanctioned Entity,Low,32454109.55,0.913,Statistical Threshold,Analyst_B,Cleared,2024-05-12,Quetta-Branch
+ANO-0182,TXN-01139,CUST-0165,2025-03-04,Cross-Border Alert,Low,1551329.8,0.726,Statistical Threshold,Analyst_B,Open,2025-03-25,Karachi-Main
+ANO-0183,TXN-01144,CUST-0170,2024-10-08,AML Suspicion,Critical,4607451.8,0.706,Statistical Threshold,Analyst_B,Reported,2024-11-07,Karachi-Clifton
+ANO-0184,TXN-01145,CUST-0174,2024-09-18,Unusual Velocity,Low,10548.3,0.674,Rule-Based,Analyst_A,Escalated,2024-10-29,Faisalabad-Central
+ANO-0185,TXN-01149,CUST-0182,2024-12-26,Dormant Account Activation,Critical,1434744.81,0.677,Statistical Threshold,Compliance_Team,Under Review,2025-02-07,Lahore-Gulberg
+ANO-0186,TXN-01155,CUST-0030,2025-01-06,Dormant Account Activation,High,27195.52,0.904,Peer Group Analysis,Analyst_B,Open,2025-02-05,Quetta-Branch
+ANO-0187,TXN-01164,CUST-0015,2024-05-16,Rapid Fund Movement,Medium,195172.27,0.553,Rule-Based,Analyst_B,Reported,2024-06-25,Faisalabad-Central
+ANO-0188,TXN-01172,CUST-0090,2024-03-18,Unusual Velocity,High,145028.89,0.969,Velocity Check,Analyst_C,Open,2024-04-10,Karachi-Clifton
+ANO-0189,TXN-01181,CUST-0102,2024-09-19,Structuring,Critical,585158.3,0.812,Peer Group Analysis,Compliance_Team,Escalated,2024-11-02,Lahore-Gulberg
+ANO-0190,TXN-01190,CUST-0089,2024-06-23,Dormant Account Activation,Critical,127233.34,0.6,Peer Group Analysis,Analyst_B,Open,2024-07-07,Karachi-Main
+ANO-0191,TXN-01197,CUST-0166,2024-02-10,Unusual Velocity,High,1887981.04,0.702,Statistical Threshold,Analyst_A,Cleared,2024-03-20,Islamabad-Blue Area
+ANO-0192,TXN-01204,CUST-0093,2024-12-28,Rapid Fund Movement,Low,207854.26,0.855,Peer Group Analysis,Analyst_B,Reported,2025-01-10,Islamabad-Blue Area
+ANO-0193,TXN-01214,CUST-0017,2024-11-05,Dormant Account Activation,High,3536462.72,0.923,Statistical Threshold,Analyst_A,Open,2024-12-02,Karachi-Clifton
+ANO-0194,TXN-01222,CUST-0083,2024-09-26,AML Suspicion,Medium,1572382.9,0.942,Statistical Threshold,Analyst_C,Under Review,2024-11-08,Karachi-Main
+ANO-0195,TXN-01225,CUST-0191,2024-11-23,Dormant Account Activation,Medium,340892.38,0.615,Rule-Based,Compliance_Team,Open,2024-12-03,Karachi-Main
+ANO-0196,TXN-01229,CUST-0113,2024-08-12,Structuring,High,285558.0,0.881,Peer Group Analysis,Analyst_C,Open,2024-09-20,Karachi-Clifton
+ANO-0197,TXN-01247,CUST-0062,2024-02-18,Sanctioned Entity,Critical,4095388.44,0.95,Rule-Based,Analyst_B,Under Review,2024-03-15,Islamabad-Blue Area
+ANO-0198,TXN-01248,CUST-0099,2024-10-24,High-Value Cash,High,7207624.27,0.781,Statistical Threshold,Analyst_B,Escalated,2024-11-11,Karachi-Clifton
+ANO-0199,TXN-01258,CUST-0031,2024-08-12,AML Suspicion,High,8980635.69,0.965,Velocity Check,Analyst_A,Under Review,2024-09-16,Lahore-Gulberg
+ANO-0200,TXN-01269,CUST-0099,2025-01-17,Rapid Fund Movement,Critical,28443.52,0.907,Velocity Check,Compliance_Team,Open,2025-02-08,Karachi-Clifton
+ANO-0201,TXN-01275,CUST-0128,2025-02-25,Cross-Border Alert,High,369406.95,0.788,Statistical Threshold,Analyst_C,Under Review,2025-03-05,Faisalabad-Central
+ANO-0202,TXN-01276,CUST-0063,2024-10-14,Unusual Velocity,Medium,256721.32,0.671,Peer Group Analysis,Analyst_C,Reported,2024-10-22,Lahore-Gulberg
+ANO-0203,TXN-01286,CUST-0183,2024-04-19,High-Value Cash,High,1036759.26,0.68,Peer Group Analysis,Analyst_B,Cleared,2024-04-24,Karachi-Clifton
+ANO-0204,TXN-01293,CUST-0055,2024-08-18,Sanctioned Entity,Low,214781.48,0.953,Rule-Based,Analyst_C,Under Review,2024-08-30,Faisalabad-Central
+ANO-0205,TXN-01296,CUST-0019,2024-11-22,Sanctioned Entity,High,353440.15,0.703,Velocity Check,Analyst_B,Open,2024-12-09,Karachi-Clifton
+ANO-0206,TXN-01309,CUST-0031,2024-11-20,Dormant Account Activation,High,953803.6,0.694,Velocity Check,Analyst_A,Reported,2024-12-24,Lahore-Gulberg
+ANO-0207,TXN-01318,CUST-0100,2024-11-09,Dormant Account Activation,Critical,1749211.39,0.858,Velocity Check,Analyst_A,Open,2024-12-10,Islamabad-Blue Area
+ANO-0208,TXN-01324,CUST-0135,2024-07-02,High-Value Cash,High,666009.52,0.815,Statistical Threshold,Analyst_A,Open,2024-07-14,Faisalabad-Central
+ANO-0209,TXN-01325,CUST-0061,2024-01-18,Unusual Velocity,Critical,565899.97,0.735,Velocity Check,Analyst_B,Reported,2024-02-12,Lahore-Gulberg
+ANO-0210,TXN-01326,CUST-0149,2024-09-17,Dormant Account Activation,High,195292.75,0.805,Peer Group Analysis,Analyst_A,Reported,2024-10-02,Lahore-Gulberg
+ANO-0211,TXN-01333,CUST-0045,2024-07-15,AML Suspicion,High,66164.95,0.667,Peer Group Analysis,Analyst_C,Open,2024-07-22,Islamabad-Blue Area
+ANO-0212,TXN-01344,CUST-0111,2024-05-11,High-Value Cash,Medium,2787772.02,0.853,Statistical Threshold,Analyst_A,Open,2024-05-23,Karachi-Clifton
+ANO-0213,TXN-01351,CUST-0147,2024-01-27,Cross-Border Alert,High,761194.17,0.942,Peer Group Analysis,Analyst_B,Open,2024-03-06,Islamabad-Blue Area
+ANO-0214,TXN-01361,CUST-0015,2024-03-14,Dormant Account Activation,High,127834.42,0.564,Rule-Based,Analyst_A,Open,2024-04-04,Faisalabad-Central
+ANO-0215,TXN-01363,CUST-0105,2024-02-06,AML Suspicion,High,845752.72,0.903,Statistical Threshold,Compliance_Team,Open,2024-02-18,Islamabad-Blue Area
+ANO-0216,TXN-01370,CUST-0026,2024-10-25,Sanctioned Entity,Critical,594097.63,0.86,Velocity Check,Analyst_B,Cleared,2024-12-09,Quetta-Branch
+ANO-0217,TXN-01371,CUST-0090,2024-12-04,Structuring,High,196522.3,0.566,Velocity Check,Compliance_Team,Open,2024-12-23,Karachi-Clifton
+ANO-0218,TXN-01374,CUST-0176,2024-07-12,Sanctioned Entity,High,804463.63,0.686,Peer Group Analysis,Analyst_A,Cleared,2024-08-14,Islamabad-Blue Area
+ANO-0219,TXN-01388,CUST-0106,2024-03-02,Dormant Account Activation,High,375094.7,0.639,Rule-Based,Analyst_A,Under Review,2024-03-16,Lahore-Gulberg
+ANO-0220,TXN-01393,CUST-0173,2024-03-21,Structuring,High,350194.48,0.951,Velocity Check,Compliance_Team,Reported,2024-04-16,Karachi-Clifton
+ANO-0221,TXN-01396,CUST-0138,2024-09-19,High-Value Cash,Medium,308746.58,0.745,Velocity Check,Analyst_A,Under Review,2024-10-11,Islamabad-Blue Area
+ANO-0222,TXN-01399,CUST-0117,2024-01-12,Dormant Account Activation,Medium,8668156.62,0.847,Rule-Based,Analyst_B,Open,2024-01-17,Karachi-Clifton
+ANO-0223,TXN-01408,CUST-0053,2025-02-22,High-Value Cash,Critical,15736368.31,0.945,Statistical Threshold,Analyst_B,Escalated,2025-03-19,Faisalabad-Central
+ANO-0224,TXN-01409,CUST-0078,2024-01-24,Unusual Velocity,High,2260979.16,0.67,Statistical Threshold,Analyst_C,Open,2024-02-28,Karachi-Clifton
+ANO-0225,TXN-01416,CUST-0178,2024-02-18,Unusual Velocity,High,634847.97,0.977,Peer Group Analysis,Compliance_Team,Open,2024-02-27,Islamabad-Blue Area
+ANO-0226,TXN-01424,CUST-0015,2024-07-17,Sanctioned Entity,Medium,4218543.05,0.799,Peer Group Analysis,Analyst_A,Cleared,2024-08-16,Faisalabad-Central
+ANO-0227,TXN-01429,CUST-0049,2024-10-24,AML Suspicion,Medium,11193.06,0.796,Velocity Check,Analyst_B,Reported,2024-11-30,Quetta-Branch
+ANO-0228,TXN-01430,CUST-0100,2025-03-23,High-Value Cash,Low,1353404.05,0.588,Peer Group Analysis,Analyst_A,Escalated,2025-04-16,Islamabad-Blue Area
+ANO-0229,TXN-01434,CUST-0053,2024-11-09,AML Suspicion,High,69920.22,0.976,Peer Group Analysis,Analyst_B,Open,2024-12-13,Faisalabad-Central
+ANO-0230,TXN-01436,CUST-0050,2025-02-14,Unusual Velocity,Critical,169857.37,0.707,Statistical Threshold,Analyst_B,Reported,2025-03-26,Faisalabad-Central
+ANO-0231,TXN-01439,CUST-0067,2024-05-01,Structuring,Medium,43981.13,0.803,Velocity Check,Compliance_Team,Reported,2024-05-12,Karachi-Clifton
+ANO-0232,TXN-01442,CUST-0041,2024-03-10,Unusual Velocity,High,936465.05,0.631,Peer Group Analysis,Compliance_Team,Escalated,2024-04-13,Karachi-Clifton
+ANO-0233,TXN-01444,CUST-0010,2024-02-04,Cross-Border Alert,High,4044094.95,0.671,Velocity Check,Analyst_B,Cleared,2024-02-08,Karachi-Clifton
+ANO-0234,TXN-01448,CUST-0110,2024-05-08,Sanctioned Entity,High,12575419.47,0.885,Rule-Based,Analyst_B,Reported,2024-06-20,Karachi-Clifton
+ANO-0235,TXN-01451,CUST-0131,2025-03-11,High-Value Cash,Critical,38015348.12,0.775,Peer Group Analysis,Analyst_A,Under Review,2025-03-26,Lahore-Gulberg
+ANO-0236,TXN-01467,CUST-0113,2025-02-23,Cross-Border Alert,Medium,2511549.22,0.612,Velocity Check,Compliance_Team,Cleared,2025-03-14,Karachi-Clifton
+ANO-0237,TXN-01468,CUST-0013,2024-06-09,Unusual Velocity,High,6834623.06,0.946,Statistical Threshold,Analyst_C,Cleared,2024-06-13,Quetta-Branch
+ANO-0238,TXN-01475,CUST-0028,2024-02-25,Cross-Border Alert,High,460504.49,0.664,Statistical Threshold,Compliance_Team,Reported,2024-03-28,Islamabad-Blue Area
+ANO-0239,TXN-01478,CUST-0036,2024-09-05,Structuring,Medium,935622.82,0.956,Statistical Threshold,Analyst_B,Cleared,2024-09-15,Lahore-Gulberg
+ANO-0240,TXN-01485,CUST-0046,2024-11-19,Unusual Velocity,High,11197108.42,0.693,Rule-Based,Compliance_Team,Under Review,2024-12-14,Lahore-Gulberg
+ANO-0241,TXN-01489,CUST-0019,2024-01-25,Structuring,Medium,161272.74,0.674,Peer Group Analysis,Analyst_A,Escalated,2024-01-31,Karachi-Clifton
+ANO-0242,TXN-01499,CUST-0190,2025-01-09,Rapid Fund Movement,High,698175.89,0.552,Peer Group Analysis,Analyst_A,Escalated,2025-02-02,Faisalabad-Central
+ANO-0243,TXN-01501,CUST-0162,2024-02-24,Rapid Fund Movement,High,3024542.22,0.586,Peer Group Analysis,Analyst_B,Reported,2024-03-28,Faisalabad-Central
+ANO-0244,TXN-01507,CUST-0032,2024-11-19,Sanctioned Entity,High,8262.45,0.676,Statistical Threshold,Analyst_B,Reported,2024-11-26,Islamabad-Blue Area
+ANO-0245,TXN-01516,CUST-0133,2024-10-01,AML Suspicion,Low,120586.85,0.673,Statistical Threshold,Analyst_A,Open,2024-10-20,Karachi-Clifton
+ANO-0246,TXN-01522,CUST-0153,2024-06-26,Rapid Fund Movement,High,5369176.32,0.554,Rule-Based,Compliance_Team,Open,2024-07-08,Islamabad-Blue Area
+ANO-0247,TXN-01529,CUST-0162,2024-06-11,Structuring,High,783382.51,0.891,Rule-Based,Compliance_Team,Under Review,2024-06-20,Faisalabad-Central
+ANO-0248,TXN-01531,CUST-0094,2025-02-20,Unusual Velocity,Medium,26587.9,0.788,Peer Group Analysis,Analyst_B,Open,2025-03-07,Quetta-Branch
+ANO-0249,TXN-01536,CUST-0003,2024-07-07,Structuring,High,265639.3,0.823,Peer Group Analysis,Analyst_A,Cleared,2024-07-14,Islamabad-Blue Area
+ANO-0250,TXN-01537,CUST-0050,2024-01-15,Unusual Velocity,Medium,11025286.29,0.866,Rule-Based,Analyst_C,Open,2024-02-26,Faisalabad-Central
+ANO-0251,TXN-01539,CUST-0169,2024-06-16,Structuring,High,1828285.96,0.773,Rule-Based,Analyst_A,Reported,2024-06-27,Lahore-Gulberg
+ANO-0252,TXN-01540,CUST-0086,2025-02-01,Sanctioned Entity,Medium,505483.09,0.718,Velocity Check,Analyst_C,Reported,2025-02-20,Faisalabad-Central
+ANO-0253,TXN-01542,CUST-0058,2024-08-15,Rapid Fund Movement,Low,29327.47,0.668,Rule-Based,Analyst_B,Under Review,2024-09-06,Faisalabad-Central
+ANO-0254,TXN-01543,CUST-0084,2024-02-24,Dormant Account Activation,Low,1889704.94,0.57,Peer Group Analysis,Compliance_Team,Reported,2024-03-13,Islamabad-Blue Area
+ANO-0255,TXN-01545,CUST-0175,2024-12-29,Sanctioned Entity,High,228785.9,0.702,Statistical Threshold,Analyst_A,Escalated,2025-02-03,Lahore-Gulberg
+ANO-0256,TXN-01547,CUST-0040,2025-01-15,Cross-Border Alert,Critical,2580953.7,0.703,Statistical Threshold,Compliance_Team,Open,2025-01-30,Karachi-Clifton
+ANO-0257,TXN-01553,CUST-0029,2024-05-15,Cross-Border Alert,Low,249462.86,0.816,Velocity Check,Analyst_C,Escalated,2024-06-01,Faisalabad-Central
+ANO-0258,TXN-01557,CUST-0043,2024-08-26,Rapid Fund Movement,High,768138.39,0.639,Peer Group Analysis,Analyst_C,Escalated,2024-09-05,Lahore-Gulberg
+ANO-0259,TXN-01559,CUST-0084,2024-12-29,Sanctioned Entity,Low,14512960.82,0.912,Statistical Threshold,Analyst_B,Open,2025-01-15,Islamabad-Blue Area
+ANO-0260,TXN-01570,CUST-0078,2024-05-06,Sanctioned Entity,High,579705.37,0.655,Peer Group Analysis,Analyst_B,Open,2024-06-19,Karachi-Clifton
+ANO-0261,TXN-01574,CUST-0164,2024-08-09,Sanctioned Entity,High,1461359.74,0.911,Rule-Based,Analyst_A,Escalated,2024-09-02,Faisalabad-Central
+ANO-0262,TXN-01575,CUST-0054,2024-06-13,Dormant Account Activation,Low,83737.09,0.737,Velocity Check,Analyst_C,Open,2024-06-30,Lahore-Gulberg
+ANO-0263,TXN-01586,CUST-0123,2024-10-07,Unusual Velocity,Critical,523740.69,0.767,Statistical Threshold,Analyst_C,Under Review,2024-11-08,Lahore-Gulberg
+ANO-0264,TXN-01594,CUST-0099,2024-04-30,AML Suspicion,Critical,460595.95,0.79,Peer Group Analysis,Compliance_Team,Reported,2024-05-27,Karachi-Clifton
+ANO-0265,TXN-01597,CUST-0131,2024-04-22,AML Suspicion,High,6647757.96,0.695,Peer Group Analysis,Analyst_C,Under Review,2024-05-03,Lahore-Gulberg
+ANO-0266,TXN-01602,CUST-0118,2025-02-23,Dormant Account Activation,High,32852.18,0.644,Rule-Based,Analyst_B,Open,2025-03-02,Lahore-Gulberg
+ANO-0267,TXN-01610,CUST-0160,2024-06-04,High-Value Cash,Critical,5595260.5,0.887,Rule-Based,Analyst_A,Escalated,2024-07-09,Karachi-Clifton
+ANO-0268,TXN-01618,CUST-0125,2024-05-13,AML Suspicion,Medium,2506693.82,0.563,Velocity Check,Analyst_A,Reported,2024-06-10,Karachi-Main
+ANO-0269,TXN-01627,CUST-0168,2024-10-28,Unusual Velocity,Critical,592852.94,0.807,Peer Group Analysis,Analyst_B,Open,2024-12-02,Karachi-Clifton
+ANO-0270,TXN-01636,CUST-0072,2024-12-13,High-Value Cash,High,9574718.45,0.854,Rule-Based,Compliance_Team,Open,2025-01-15,Karachi-Main
+ANO-0271,TXN-01649,CUST-0002,2025-02-23,Dormant Account Activation,Medium,1394096.74,0.686,Statistical Threshold,Analyst_C,Reported,2025-03-19,Quetta-Branch
+ANO-0272,TXN-01652,CUST-0147,2024-05-21,AML Suspicion,High,49113.22,0.834,Statistical Threshold,Compliance_Team,Cleared,2024-06-26,Islamabad-Blue Area
+ANO-0273,TXN-01655,CUST-0074,2024-07-14,Dormant Account Activation,Critical,1225270.41,0.855,Peer Group Analysis,Compliance_Team,Under Review,2024-07-17,Karachi-Main
+ANO-0274,TXN-01672,CUST-0089,2024-02-22,Sanctioned Entity,Low,531601.06,0.937,Peer Group Analysis,Analyst_C,Escalated,2024-04-01,Karachi-Main
+ANO-0275,TXN-01676,CUST-0106,2024-05-16,High-Value Cash,Low,2419776.1,0.966,Peer Group Analysis,Analyst_C,Open,2024-06-30,Lahore-Gulberg
+ANO-0276,TXN-01680,CUST-0168,2024-08-25,High-Value Cash,Medium,40695.22,0.803,Peer Group Analysis,Compliance_Team,Reported,2024-09-26,Karachi-Clifton
+ANO-0277,TXN-01684,CUST-0085,2024-05-03,Dormant Account Activation,Low,200780.99,0.573,Rule-Based,Analyst_C,Reported,2024-05-28,Lahore-Gulberg
+ANO-0278,TXN-01686,CUST-0001,2024-01-08,Rapid Fund Movement,High,1137535.57,0.607,Peer Group Analysis,Analyst_B,Open,2024-01-13,Karachi-Clifton
+ANO-0279,TXN-01690,CUST-0129,2024-10-24,Unusual Velocity,High,450864.43,0.843,Rule-Based,Analyst_B,Cleared,2024-11-30,Islamabad-Blue Area
+ANO-0280,TXN-01691,CUST-0065,2024-12-15,Sanctioned Entity,Low,351359.39,0.804,Velocity Check,Analyst_B,Open,2024-12-20,Lahore-Gulberg
+ANO-0281,TXN-01714,CUST-0079,2024-01-05,Unusual Velocity,Low,1598445.28,0.613,Statistical Threshold,Analyst_B,Open,2024-01-22,Lahore-Gulberg
+ANO-0282,TXN-01722,CUST-0098,2024-07-21,AML Suspicion,Critical,2978189.29,0.86,Peer Group Analysis,Analyst_A,Open,2024-08-02,Lahore-Gulberg
+ANO-0283,TXN-01725,CUST-0053,2024-12-03,Sanctioned Entity,High,169327.74,0.63,Statistical Threshold,Analyst_A,Under Review,2024-12-30,Faisalabad-Central
+ANO-0284,TXN-01726,CUST-0122,2024-09-09,Unusual Velocity,Critical,199159.57,0.959,Rule-Based,Compliance_Team,Cleared,2024-09-25,Faisalabad-Central
+ANO-0285,TXN-01757,CUST-0003,2024-05-28,Dormant Account Activation,Medium,199193.82,0.886,Statistical Threshold,Compliance_Team,Under Review,2024-06-12,Islamabad-Blue Area
+ANO-0286,TXN-01770,CUST-0009,2024-06-08,Sanctioned Entity,Low,3522921.86,0.732,Rule-Based,Compliance_Team,Reported,2024-07-02,Karachi-Main
+ANO-0287,TXN-01772,CUST-0038,2025-02-14,Sanctioned Entity,High,127104.69,0.803,Peer Group Analysis,Analyst_C,Under Review,2025-03-30,Islamabad-Blue Area
+ANO-0288,TXN-01801,CUST-0089,2024-02-29,Dormant Account Activation,High,140891.96,0.569,Statistical Threshold,Analyst_B,Under Review,2024-04-09,Karachi-Main
+ANO-0289,TXN-01802,CUST-0083,2024-12-19,Unusual Velocity,High,606362.9,0.888,Rule-Based,Compliance_Team,Open,2024-12-25,Karachi-Main
+ANO-0290,TXN-01807,CUST-0133,2025-01-14,Rapid Fund Movement,Medium,1087714.94,0.647,Rule-Based,Analyst_C,Reported,2025-02-13,Karachi-Clifton
+ANO-0291,TXN-01822,CUST-0054,2024-10-18,AML Suspicion,Low,580897.57,0.951,Velocity Check,Analyst_B,Open,2024-11-26,Lahore-Gulberg
+ANO-0292,TXN-01831,CUST-0107,2024-05-04,Sanctioned Entity,High,216611.66,0.893,Statistical Threshold,Analyst_A,Cleared,2024-05-31,Lahore-Gulberg
+ANO-0293,TXN-01832,CUST-0053,2024-08-27,Structuring,High,6864404.14,0.884,Velocity Check,Compliance_Team,Open,2024-09-06,Faisalabad-Central
+ANO-0294,TXN-01837,CUST-0079,2024-03-08,Unusual Velocity,Medium,350940.45,0.933,Statistical Threshold,Analyst_B,Cleared,2024-04-18,Lahore-Gulberg
+ANO-0295,TXN-01840,CUST-0011,2024-10-25,Unusual Velocity,High,19994.59,0.708,Rule-Based,Analyst_B,Under Review,2024-11-15,Faisalabad-Central
+ANO-0296,TXN-01849,CUST-0160,2024-01-08,Rapid Fund Movement,Critical,1095475.18,0.869,Peer Group Analysis,Compliance_Team,Reported,2024-02-02,Karachi-Clifton
+ANO-0297,TXN-01856,CUST-0118,2025-01-23,Structuring,Critical,128468.38,0.647,Statistical Threshold,Compliance_Team,Reported,2025-02-16,Lahore-Gulberg
+ANO-0298,TXN-01857,CUST-0080,2024-03-13,High-Value Cash,High,1525416.52,0.957,Velocity Check,Analyst_B,Cleared,2024-04-02,Karachi-Clifton
+ANO-0299,TXN-01874,CUST-0121,2024-06-15,High-Value Cash,High,735462.94,0.713,Peer Group Analysis,Analyst_A,Open,2024-07-30,Karachi-Main
+ANO-0300,TXN-01875,CUST-0132,2024-01-10,High-Value Cash,Critical,33770.86,0.852,Peer Group Analysis,Analyst_B,Cleared,2024-01-15,Quetta-Branch
+ANO-0301,TXN-01887,CUST-0078,2024-02-17,High-Value Cash,Low,1359348.22,0.817,Rule-Based,Analyst_C,Escalated,2024-02-27,Karachi-Clifton
+ANO-0302,TXN-01911,CUST-0167,2024-09-04,Cross-Border Alert,Medium,12401.27,0.971,Rule-Based,Analyst_C,Open,2024-09-07,Faisalabad-Central
+ANO-0303,TXN-01917,CUST-0181,2024-04-04,Rapid Fund Movement,High,1004159.18,0.584,Peer Group Analysis,Analyst_C,Open,2024-05-10,Faisalabad-Central
+ANO-0304,TXN-01937,CUST-0004,2024-05-15,High-Value Cash,High,355837.02,0.551,Peer Group Analysis,Analyst_B,Escalated,2024-06-11,Quetta-Branch
+ANO-0305,TXN-01957,CUST-0086,2024-07-25,Rapid Fund Movement,High,1486898.79,0.635,Peer Group Analysis,Analyst_A,Under Review,2024-08-26,Faisalabad-Central
+ANO-0306,TXN-01970,CUST-0040,2024-09-24,Unusual Velocity,Medium,2542394.66,0.985,Peer Group Analysis,Analyst_A,Cleared,2024-10-29,Karachi-Clifton
+ANO-0307,TXN-01979,CUST-0137,2024-10-16,Structuring,Critical,81268886.18,0.574,Velocity Check,Analyst_B,Under Review,2024-11-29,Lahore-Gulberg
+ANO-0308,TXN-01980,CUST-0111,2024-04-15,Unusual Velocity,Medium,815180.56,0.821,Velocity Check,Analyst_C,Reported,2024-05-25,Karachi-Clifton
+ANO-0309,TXN-01993,CUST-0047,2024-11-11,Rapid Fund Movement,Critical,106483.6,0.943,Statistical Threshold,Analyst_A,Escalated,2024-11-21,Karachi-Clifton
+ANO-0310,TXN-01994,CUST-0199,2024-07-28,Sanctioned Entity,High,21195.23,0.584,Statistical Threshold,Compliance_Team,Open,2024-08-23,Faisalabad-Central
+ANO-0311,TXN-01999,CUST-0036,2024-06-30,Dormant Account Activation,Critical,966676.86,0.697,Statistical Threshold,Compliance_Team,Escalated,2024-07-12,Lahore-Gulberg

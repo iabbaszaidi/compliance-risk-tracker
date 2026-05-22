@@ -1,0 +1,201 @@
+customer_id,segment,branch,account_type,onboarding_date,kyc_status,risk_profile,is_active
+CUST-0001,Priority,Karachi-Clifton,Savings,2022-07-13,Verified,Low,1
+CUST-0002,Corporate,Quetta-Branch,Islamic Savings,2018-12-21,Expired,High,1
+CUST-0003,SME,Islamabad-Blue Area,Savings,2023-06-28,Verified,Medium,1
+CUST-0004,Priority,Quetta-Branch,Savings,2019-09-16,Expired,Medium,1
+CUST-0005,Retail,Islamabad-Blue Area,Term Deposit,2023-12-06,Pending,Low,1
+CUST-0006,Priority,Karachi-Clifton,Term Deposit,2018-02-01,Expired,Low,0
+CUST-0007,SME,Faisalabad-Central,Islamic Savings,2023-10-26,Verified,Medium,1
+CUST-0008,SME,Quetta-Branch,Islamic Savings,2020-06-03,Expired,Low,1
+CUST-0009,Retail,Karachi-Main,Savings,2018-06-01,Pending,Medium,1
+CUST-0010,Retail,Karachi-Clifton,Term Deposit,2022-10-09,Expired,Low,0
+CUST-0011,SME,Faisalabad-Central,Islamic Savings,2021-09-12,Verified,Low,1
+CUST-0012,Corporate,Faisalabad-Central,Islamic Savings,2022-12-20,Verified,Medium,0
+CUST-0013,SME,Quetta-Branch,Savings,2018-08-17,Expired,Medium,1
+CUST-0014,Retail,Karachi-Clifton,Term Deposit,2019-01-31,Verified,Low,0
+CUST-0015,SME,Faisalabad-Central,Term Deposit,2019-08-20,Pending,Low,1
+CUST-0016,Corporate,Karachi-Clifton,Current,2019-04-26,Expired,Medium,1
+CUST-0017,Corporate,Karachi-Clifton,Islamic Savings,2018-07-15,Pending,Medium,0
+CUST-0018,Priority,Lahore-Gulberg,Current,2022-04-30,Verified,Low,1
+CUST-0019,Priority,Karachi-Clifton,Term Deposit,2022-06-21,Verified,Medium,1
+CUST-0020,SME,Quetta-Branch,Savings,2021-07-09,Pending,Medium,0
+CUST-0021,Priority,Islamabad-Blue Area,Term Deposit,2018-11-25,Verified,High,1
+CUST-0022,Priority,Faisalabad-Central,Savings,2021-08-06,Verified,Medium,1
+CUST-0023,Islamic,Karachi-Clifton,Term Deposit,2022-08-04,Pending,High,0
+CUST-0024,Priority,Lahore-Gulberg,Savings,2020-03-07,Verified,Low,1
+CUST-0025,SME,Quetta-Branch,Savings,2021-04-24,Verified,Medium,1
+CUST-0026,Corporate,Quetta-Branch,Islamic Savings,2022-07-31,Verified,Low,1
+CUST-0027,Islamic,Lahore-Gulberg,Savings,2018-01-06,Expired,Medium,1
+CUST-0028,Priority,Islamabad-Blue Area,Term Deposit,2020-12-16,Verified,Low,1
+CUST-0029,Retail,Faisalabad-Central,Current,2021-06-13,Verified,Medium,1
+CUST-0030,Islamic,Quetta-Branch,Term Deposit,2022-02-21,Verified,Low,0
+CUST-0031,SME,Lahore-Gulberg,Islamic Savings,2022-06-21,Verified,Low,1
+CUST-0032,Priority,Islamabad-Blue Area,Savings,2023-01-04,Verified,Medium,1
+CUST-0033,Priority,Faisalabad-Central,Islamic Savings,2021-01-25,Verified,Medium,0
+CUST-0034,Retail,Faisalabad-Central,Savings,2019-11-26,Pending,High,1
+CUST-0035,Corporate,Islamabad-Blue Area,Current,2019-04-16,Verified,Low,1
+CUST-0036,Islamic,Lahore-Gulberg,Islamic Savings,2018-02-19,Verified,Low,1
+CUST-0037,Priority,Karachi-Main,Current,2018-07-14,Verified,High,1
+CUST-0038,SME,Islamabad-Blue Area,Current,2021-04-11,Pending,Low,1
+CUST-0039,Priority,Karachi-Clifton,Term Deposit,2019-04-25,Verified,Medium,1
+CUST-0040,Islamic,Karachi-Clifton,Term Deposit,2020-03-22,Expired,Low,1
+CUST-0041,SME,Karachi-Clifton,Current,2019-05-30,Verified,High,0
+CUST-0042,Corporate,Quetta-Branch,Savings,2019-11-14,Expired,High,1
+CUST-0043,Retail,Lahore-Gulberg,Islamic Savings,2021-10-25,Verified,Medium,1
+CUST-0044,SME,Islamabad-Blue Area,Current,2019-04-01,Verified,Medium,1
+CUST-0045,Islamic,Islamabad-Blue Area,Current,2020-08-22,Verified,Low,0
+CUST-0046,Corporate,Lahore-Gulberg,Current,2022-03-09,Expired,Medium,1
+CUST-0047,SME,Karachi-Clifton,Current,2021-05-16,Verified,High,1
+CUST-0048,Retail,Islamabad-Blue Area,Islamic Savings,2021-04-03,Verified,Low,1
+CUST-0049,Islamic,Quetta-Branch,Term Deposit,2019-11-03,Verified,Medium,1
+CUST-0050,Corporate,Faisalabad-Central,Savings,2022-03-23,Expired,Low,1
+CUST-0051,Priority,Islamabad-Blue Area,Savings,2021-03-28,Verified,High,0
+CUST-0052,SME,Karachi-Clifton,Term Deposit,2018-08-12,Verified,High,1
+CUST-0053,Retail,Faisalabad-Central,Current,2022-11-16,Verified,Low,1
+CUST-0054,Retail,Lahore-Gulberg,Savings,2021-05-15,Expired,Medium,1
+CUST-0055,Retail,Faisalabad-Central,Islamic Savings,2018-01-14,Pending,Low,1
+CUST-0056,Corporate,Islamabad-Blue Area,Savings,2020-08-13,Pending,High,1
+CUST-0057,Islamic,Karachi-Clifton,Savings,2022-02-22,Expired,Medium,1
+CUST-0058,Priority,Faisalabad-Central,Savings,2019-02-16,Verified,Low,0
+CUST-0059,SME,Quetta-Branch,Term Deposit,2020-10-14,Verified,High,1
+CUST-0060,SME,Faisalabad-Central,Savings,2020-08-19,Pending,Medium,1
+CUST-0061,Corporate,Lahore-Gulberg,Term Deposit,2020-09-16,Pending,Low,1
+CUST-0062,Retail,Islamabad-Blue Area,Current,2018-05-02,Verified,Low,1
+CUST-0063,SME,Lahore-Gulberg,Term Deposit,2021-04-14,Verified,High,1
+CUST-0064,Corporate,Karachi-Main,Savings,2020-03-14,Verified,Medium,1
+CUST-0065,Islamic,Lahore-Gulberg,Savings,2021-06-03,Pending,Low,1
+CUST-0066,SME,Karachi-Clifton,Current,2021-12-24,Pending,Low,1
+CUST-0067,Priority,Karachi-Clifton,Savings,2021-07-26,Verified,Low,1
+CUST-0068,SME,Karachi-Clifton,Term Deposit,2019-12-22,Expired,Medium,1
+CUST-0069,Priority,Karachi-Main,Islamic Savings,2018-01-04,Verified,Medium,0
+CUST-0070,Islamic,Islamabad-Blue Area,Term Deposit,2022-10-02,Verified,Medium,1
+CUST-0071,Islamic,Karachi-Clifton,Current,2021-01-24,Verified,Low,1
+CUST-0072,Islamic,Karachi-Main,Term Deposit,2021-08-28,Verified,High,1
+CUST-0073,Priority,Quetta-Branch,Islamic Savings,2020-05-20,Expired,Low,1
+CUST-0074,Priority,Karachi-Main,Current,2018-11-14,Verified,Medium,0
+CUST-0075,Corporate,Faisalabad-Central,Savings,2022-10-11,Expired,High,1
+CUST-0076,Priority,Karachi-Clifton,Current,2021-03-19,Expired,Medium,0
+CUST-0077,Corporate,Faisalabad-Central,Current,2023-07-01,Verified,Low,1
+CUST-0078,Priority,Karachi-Clifton,Islamic Savings,2019-06-16,Expired,High,1
+CUST-0079,Retail,Lahore-Gulberg,Savings,2018-03-22,Verified,Low,1
+CUST-0080,Corporate,Karachi-Clifton,Savings,2022-10-27,Verified,Low,0
+CUST-0081,Corporate,Karachi-Clifton,Islamic Savings,2019-03-05,Pending,Low,1
+CUST-0082,Islamic,Lahore-Gulberg,Term Deposit,2021-01-06,Verified,Medium,1
+CUST-0083,Islamic,Karachi-Main,Term Deposit,2018-05-24,Pending,Medium,1
+CUST-0084,Islamic,Islamabad-Blue Area,Savings,2021-04-05,Expired,Medium,0
+CUST-0085,Islamic,Lahore-Gulberg,Savings,2020-10-30,Pending,Medium,1
+CUST-0086,Corporate,Faisalabad-Central,Savings,2020-02-19,Expired,Low,1
+CUST-0087,Retail,Karachi-Clifton,Islamic Savings,2023-10-15,Verified,High,1
+CUST-0088,Priority,Faisalabad-Central,Current,2021-10-15,Verified,Medium,1
+CUST-0089,Priority,Karachi-Main,Current,2022-10-10,Verified,Low,1
+CUST-0090,Corporate,Karachi-Clifton,Current,2020-09-16,Verified,Medium,1
+CUST-0091,Islamic,Quetta-Branch,Savings,2019-12-11,Verified,High,1
+CUST-0092,Retail,Karachi-Clifton,Term Deposit,2021-08-18,Pending,Medium,1
+CUST-0093,Corporate,Islamabad-Blue Area,Term Deposit,2022-12-20,Verified,Medium,1
+CUST-0094,Corporate,Quetta-Branch,Savings,2018-06-26,Verified,High,0
+CUST-0095,SME,Faisalabad-Central,Term Deposit,2023-05-05,Expired,Low,1
+CUST-0096,Retail,Faisalabad-Central,Term Deposit,2018-03-26,Verified,Low,0
+CUST-0097,Retail,Faisalabad-Central,Term Deposit,2018-07-07,Expired,Medium,1
+CUST-0098,Islamic,Lahore-Gulberg,Current,2019-12-10,Expired,Medium,1
+CUST-0099,Priority,Karachi-Clifton,Savings,2021-11-06,Verified,Low,1
+CUST-0100,Priority,Islamabad-Blue Area,Islamic Savings,2023-04-29,Verified,High,0
+CUST-0101,Retail,Karachi-Clifton,Term Deposit,2020-11-26,Verified,Low,1
+CUST-0102,Retail,Lahore-Gulberg,Islamic Savings,2019-02-08,Verified,High,1
+CUST-0103,Islamic,Quetta-Branch,Term Deposit,2019-05-24,Verified,Medium,1
+CUST-0104,SME,Lahore-Gulberg,Current,2019-07-07,Expired,High,1
+CUST-0105,SME,Islamabad-Blue Area,Savings,2019-08-07,Verified,Medium,0
+CUST-0106,Retail,Lahore-Gulberg,Current,2022-04-22,Pending,Low,0
+CUST-0107,Priority,Lahore-Gulberg,Savings,2018-09-29,Expired,Low,1
+CUST-0108,Retail,Lahore-Gulberg,Savings,2023-02-02,Verified,High,1
+CUST-0109,Retail,Karachi-Clifton,Current,2018-09-22,Pending,Low,0
+CUST-0110,Retail,Karachi-Clifton,Current,2023-07-28,Expired,Low,1
+CUST-0111,SME,Karachi-Clifton,Islamic Savings,2022-11-03,Verified,High,1
+CUST-0112,Corporate,Karachi-Main,Current,2018-05-14,Verified,High,0
+CUST-0113,Priority,Karachi-Clifton,Term Deposit,2022-03-02,Expired,Medium,1
+CUST-0114,Corporate,Faisalabad-Central,Term Deposit,2018-05-11,Expired,Low,0
+CUST-0115,SME,Faisalabad-Central,Term Deposit,2020-12-17,Pending,Low,0
+CUST-0116,Corporate,Faisalabad-Central,Term Deposit,2022-08-17,Pending,Low,1
+CUST-0117,Corporate,Karachi-Clifton,Savings,2018-05-05,Verified,Low,1
+CUST-0118,Corporate,Lahore-Gulberg,Islamic Savings,2021-05-12,Verified,Medium,1
+CUST-0119,Corporate,Karachi-Clifton,Current,2020-12-22,Verified,High,0
+CUST-0120,Corporate,Quetta-Branch,Islamic Savings,2023-03-19,Verified,Low,1
+CUST-0121,Islamic,Karachi-Main,Islamic Savings,2019-08-01,Expired,High,1
+CUST-0122,SME,Faisalabad-Central,Current,2023-03-29,Pending,Medium,0
+CUST-0123,Corporate,Lahore-Gulberg,Savings,2023-12-19,Verified,Low,1
+CUST-0124,Priority,Karachi-Clifton,Savings,2020-10-10,Pending,Low,1
+CUST-0125,SME,Karachi-Main,Current,2018-11-27,Verified,Medium,0
+CUST-0126,Corporate,Islamabad-Blue Area,Term Deposit,2020-05-31,Expired,Low,1
+CUST-0127,Islamic,Quetta-Branch,Islamic Savings,2022-10-22,Verified,Medium,1
+CUST-0128,Priority,Faisalabad-Central,Term Deposit,2019-08-11,Verified,Medium,0
+CUST-0129,SME,Islamabad-Blue Area,Islamic Savings,2023-03-16,Expired,High,1
+CUST-0130,Islamic,Islamabad-Blue Area,Current,2023-01-04,Pending,Low,0
+CUST-0131,Retail,Lahore-Gulberg,Islamic Savings,2020-02-29,Verified,Medium,0
+CUST-0132,Retail,Quetta-Branch,Savings,2021-07-11,Verified,Low,0
+CUST-0133,Retail,Karachi-Clifton,Savings,2018-01-02,Verified,Low,1
+CUST-0134,Corporate,Quetta-Branch,Current,2018-03-24,Verified,Low,1
+CUST-0135,SME,Faisalabad-Central,Savings,2020-02-28,Verified,High,1
+CUST-0136,Priority,Lahore-Gulberg,Islamic Savings,2020-01-24,Verified,Medium,1
+CUST-0137,SME,Lahore-Gulberg,Current,2021-10-15,Pending,Low,1
+CUST-0138,SME,Islamabad-Blue Area,Term Deposit,2018-06-18,Verified,Medium,1
+CUST-0139,Corporate,Quetta-Branch,Term Deposit,2023-04-13,Pending,Medium,1
+CUST-0140,Retail,Lahore-Gulberg,Current,2023-04-08,Verified,Low,1
+CUST-0141,Corporate,Quetta-Branch,Current,2022-10-06,Verified,Medium,1
+CUST-0142,Islamic,Lahore-Gulberg,Term Deposit,2022-02-05,Verified,Medium,0
+CUST-0143,Islamic,Karachi-Clifton,Term Deposit,2019-11-17,Expired,Low,1
+CUST-0144,Retail,Karachi-Main,Savings,2023-05-28,Verified,Medium,0
+CUST-0145,SME,Karachi-Clifton,Current,2021-08-07,Verified,High,1
+CUST-0146,SME,Quetta-Branch,Current,2022-06-13,Verified,Medium,1
+CUST-0147,Corporate,Islamabad-Blue Area,Savings,2022-03-25,Verified,High,1
+CUST-0148,SME,Karachi-Main,Term Deposit,2018-09-11,Verified,Medium,1
+CUST-0149,SME,Lahore-Gulberg,Term Deposit,2018-09-02,Expired,Medium,1
+CUST-0150,SME,Karachi-Main,Savings,2021-07-14,Verified,Medium,1
+CUST-0151,Islamic,Karachi-Clifton,Current,2018-12-10,Expired,Low,1
+CUST-0152,Priority,Lahore-Gulberg,Savings,2023-06-29,Expired,Low,1
+CUST-0153,Islamic,Islamabad-Blue Area,Term Deposit,2022-10-20,Pending,Low,0
+CUST-0154,Corporate,Faisalabad-Central,Current,2020-07-17,Verified,Medium,0
+CUST-0155,Retail,Faisalabad-Central,Current,2020-04-20,Verified,Low,1
+CUST-0156,Priority,Karachi-Main,Current,2021-01-19,Verified,Low,1
+CUST-0157,Retail,Karachi-Main,Current,2020-10-16,Verified,Low,1
+CUST-0158,Corporate,Lahore-Gulberg,Savings,2021-01-07,Pending,Medium,1
+CUST-0159,SME,Islamabad-Blue Area,Savings,2022-10-21,Expired,Medium,1
+CUST-0160,Corporate,Karachi-Clifton,Term Deposit,2018-11-09,Verified,High,1
+CUST-0161,SME,Karachi-Main,Term Deposit,2020-06-05,Verified,High,0
+CUST-0162,Corporate,Faisalabad-Central,Islamic Savings,2019-03-30,Verified,Low,1
+CUST-0163,Priority,Karachi-Main,Savings,2019-11-01,Verified,Low,1
+CUST-0164,Retail,Faisalabad-Central,Term Deposit,2022-10-12,Verified,Low,1
+CUST-0165,Islamic,Karachi-Main,Islamic Savings,2023-10-21,Expired,Medium,1
+CUST-0166,Islamic,Islamabad-Blue Area,Savings,2020-11-05,Expired,Medium,1
+CUST-0167,SME,Faisalabad-Central,Current,2023-05-13,Verified,Low,1
+CUST-0168,Islamic,Karachi-Clifton,Savings,2019-12-03,Expired,High,0
+CUST-0169,Retail,Lahore-Gulberg,Islamic Savings,2021-04-07,Verified,Medium,1
+CUST-0170,Islamic,Karachi-Clifton,Term Deposit,2018-10-23,Verified,Low,1
+CUST-0171,Corporate,Faisalabad-Central,Islamic Savings,2023-05-30,Verified,Medium,1
+CUST-0172,SME,Quetta-Branch,Term Deposit,2020-09-20,Verified,Low,1
+CUST-0173,Islamic,Karachi-Clifton,Islamic Savings,2023-05-31,Verified,Medium,0
+CUST-0174,SME,Faisalabad-Central,Term Deposit,2019-12-10,Verified,High,0
+CUST-0175,Retail,Lahore-Gulberg,Current,2021-02-22,Pending,Low,1
+CUST-0176,SME,Islamabad-Blue Area,Savings,2019-01-05,Expired,Medium,1
+CUST-0177,Retail,Faisalabad-Central,Current,2019-10-02,Pending,Low,0
+CUST-0178,Islamic,Islamabad-Blue Area,Islamic Savings,2021-06-03,Verified,High,1
+CUST-0179,Islamic,Faisalabad-Central,Term Deposit,2023-02-07,Verified,Medium,1
+CUST-0180,Retail,Quetta-Branch,Current,2019-02-26,Verified,Low,1
+CUST-0181,SME,Faisalabad-Central,Islamic Savings,2020-05-04,Verified,Medium,1
+CUST-0182,Priority,Lahore-Gulberg,Current,2022-04-17,Verified,Low,1
+CUST-0183,Priority,Karachi-Clifton,Islamic Savings,2018-12-09,Expired,Low,1
+CUST-0184,Corporate,Karachi-Main,Current,2022-10-17,Verified,Medium,0
+CUST-0185,SME,Faisalabad-Central,Current,2019-08-14,Verified,Medium,1
+CUST-0186,Corporate,Islamabad-Blue Area,Savings,2023-10-01,Expired,Medium,0
+CUST-0187,SME,Islamabad-Blue Area,Savings,2021-08-28,Verified,Low,0
+CUST-0188,Priority,Lahore-Gulberg,Term Deposit,2023-03-17,Pending,Medium,1
+CUST-0189,Retail,Karachi-Clifton,Islamic Savings,2023-10-10,Expired,High,1
+CUST-0190,Priority,Faisalabad-Central,Current,2022-12-17,Verified,Low,0
+CUST-0191,Priority,Karachi-Main,Savings,2022-08-08,Verified,Low,1
+CUST-0192,Priority,Karachi-Clifton,Savings,2023-12-23,Verified,Medium,0
+CUST-0193,Retail,Faisalabad-Central,Islamic Savings,2022-01-02,Verified,Low,0
+CUST-0194,SME,Karachi-Main,Term Deposit,2022-07-13,Expired,Medium,1
+CUST-0195,Corporate,Karachi-Main,Savings,2021-01-09,Pending,Medium,0
+CUST-0196,Islamic,Islamabad-Blue Area,Savings,2022-02-21,Verified,Low,1
+CUST-0197,Corporate,Faisalabad-Central,Term Deposit,2023-11-12,Pending,Low,1
+CUST-0198,SME,Karachi-Clifton,Term Deposit,2023-04-20,Pending,Medium,1
+CUST-0199,Corporate,Faisalabad-Central,Islamic Savings,2020-03-02,Expired,High,0
+CUST-0200,SME,Faisalabad-Central,Current,2018-05-19,Pending,High,1

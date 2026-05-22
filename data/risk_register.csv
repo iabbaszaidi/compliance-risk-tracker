@@ -1,0 +1,121 @@
+risk_id,customer_id,segment,branch,risk_category,inherent_risk,control_effectiveness,residual_risk,last_assessed_date,next_review_date,assigned_analyst,escalated_to_compliance,remarks
+RSK-0001,CUST-0026,Corporate,Quetta-Branch,AML Suspicion,Critical,Strong,High,2025-02-05,2025-05-06,Analyst_A,0,Controls adequate
+RSK-0002,CUST-0038,SME,Islamabad-Blue Area,Cross-Border Alert,Low,Not Tested,Low,2024-07-06,2025-07-06,Analyst_B,0,Requires enhanced due diligence
+RSK-0003,CUST-0058,Priority,Faisalabad-Central,Dormant Account Activation,Medium,Weak,Low,2024-05-28,2025-05-28,Analyst_C,0,Escalated for review
+RSK-0004,CUST-0065,Islamic,Lahore-Gulberg,Cross-Border Alert,High,Not Tested,Low,2024-10-27,2025-04-25,Analyst_A,0,Requires enhanced due diligence
+RSK-0005,CUST-0153,Islamic,Islamabad-Blue Area,Dormant Account Activation,Medium,Weak,Low,2024-05-31,2024-08-29,Analyst_A,0,Escalated for review
+RSK-0006,CUST-0179,Islamic,Faisalabad-Central,Cross-Border Alert,High,Not Tested,High,2024-04-25,2025-04-25,Analyst_A,1,Requires enhanced due diligence
+RSK-0007,CUST-0033,Priority,Faisalabad-Central,Cross-Border Alert,Critical,Weak,High,2024-10-09,2025-04-07,Analyst_C,0,Requires enhanced due diligence
+RSK-0008,CUST-0193,Retail,Faisalabad-Central,Cross-Border Alert,High,Adequate,High,2024-12-10,2025-06-08,Analyst_B,0,Controls adequate
+RSK-0009,CUST-0181,SME,Faisalabad-Central,Unusual Velocity,High,Weak,Low,2025-01-29,2025-07-28,Compliance_Team,1,Requires enhanced due diligence
+RSK-0010,CUST-0111,SME,Karachi-Clifton,Unusual Velocity,Medium,Weak,Low,2025-03-27,2025-06-25,Analyst_C,0,Escalated for review
+RSK-0011,CUST-0176,SME,Islamabad-Blue Area,Rapid Fund Movement,Medium,Weak,Low,2025-03-01,2026-03-01,Analyst_B,0,Requires enhanced due diligence
+RSK-0012,CUST-0046,Corporate,Lahore-Gulberg,Dormant Account Activation,Medium,Adequate,Medium,2024-08-12,2024-11-10,Analyst_A,0,Escalated for review
+RSK-0013,CUST-0021,Priority,Islamabad-Blue Area,Unusual Velocity,Low,Not Tested,High,2025-01-19,2026-01-19,Compliance_Team,0,Monitoring ongoing
+RSK-0014,CUST-0042,Corporate,Quetta-Branch,Unusual Velocity,Critical,Adequate,Medium,2024-05-25,2024-11-21,Analyst_A,0,Controls adequate
+RSK-0015,CUST-0012,Corporate,Faisalabad-Central,Dormant Account Activation,Critical,Adequate,High,2024-01-18,2025-01-17,Analyst_A,0,Escalated for review
+RSK-0016,CUST-0105,SME,Islamabad-Blue Area,Rapid Fund Movement,Low,Adequate,Low,2024-09-23,2024-12-22,Analyst_A,1,Escalated for review
+RSK-0017,CUST-0030,Islamic,Quetta-Branch,Cross-Border Alert,Medium,Weak,High,2025-01-08,2026-01-08,Analyst_A,0,Escalated for review
+RSK-0018,CUST-0145,SME,Karachi-Clifton,Cross-Border Alert,High,Weak,High,2024-08-28,2025-02-24,Analyst_A,0,Requires enhanced due diligence
+RSK-0019,CUST-0190,Priority,Faisalabad-Central,AML Suspicion,Critical,Adequate,Low,2024-11-26,2025-11-26,Analyst_B,0,Controls adequate
+RSK-0020,CUST-0073,Priority,Quetta-Branch,AML Suspicion,High,Not Tested,High,2024-07-08,2024-10-06,Analyst_B,0,Requires enhanced due diligence
+RSK-0021,CUST-0100,Priority,Islamabad-Blue Area,Dormant Account Activation,Critical,Weak,Medium,2024-12-04,2025-06-02,Analyst_B,0,Requires enhanced due diligence
+RSK-0022,CUST-0020,SME,Quetta-Branch,Unusual Velocity,Medium,Adequate,Low,2024-06-09,2024-09-07,Compliance_Team,0,Monitoring ongoing
+RSK-0023,CUST-0063,SME,Lahore-Gulberg,Cross-Border Alert,Low,Strong,Low,2025-01-13,2025-07-12,Analyst_B,0,Escalated for review
+RSK-0024,CUST-0138,SME,Islamabad-Blue Area,Structuring,Low,Strong,High,2024-07-05,2025-07-05,Analyst_A,0,Controls adequate
+RSK-0025,CUST-0118,Corporate,Lahore-Gulberg,Unusual Velocity,High,Strong,Medium,2024-12-14,2025-12-14,Analyst_C,0,Monitoring ongoing
+RSK-0026,CUST-0167,SME,Faisalabad-Central,Unusual Velocity,Medium,Not Tested,Medium,2024-12-30,2025-03-30,Analyst_B,0,Controls adequate
+RSK-0027,CUST-0136,Priority,Lahore-Gulberg,Structuring,Low,Strong,High,2024-07-08,2025-01-04,Compliance_Team,1,Requires enhanced due diligence
+RSK-0028,CUST-0178,Islamic,Islamabad-Blue Area,Structuring,Medium,Not Tested,Low,2024-05-16,2024-08-14,Analyst_C,0,Monitoring ongoing
+RSK-0029,CUST-0143,Islamic,Karachi-Clifton,AML Suspicion,Medium,Weak,High,2024-04-12,2025-04-12,Analyst_B,0,Escalated for review
+RSK-0030,CUST-0003,SME,Islamabad-Blue Area,AML Suspicion,Medium,Adequate,Medium,2024-06-28,2024-12-25,Analyst_A,0,Escalated for review
+RSK-0031,CUST-0048,Retail,Islamabad-Blue Area,Rapid Fund Movement,Medium,Adequate,Medium,2024-09-13,2025-09-13,Analyst_C,0,Monitoring ongoing
+RSK-0032,CUST-0168,Islamic,Karachi-Clifton,Dormant Account Activation,Low,Strong,Medium,2024-12-31,2025-12-31,Analyst_B,1,Escalated for review
+RSK-0033,CUST-0054,Retail,Lahore-Gulberg,Unusual Velocity,Medium,Not Tested,Medium,2024-03-23,2024-06-21,Analyst_B,0,Escalated for review
+RSK-0034,CUST-0035,Corporate,Islamabad-Blue Area,Dormant Account Activation,High,Weak,High,2024-04-25,2024-10-22,Analyst_B,0,Escalated for review
+RSK-0035,CUST-0069,Priority,Karachi-Main,Dormant Account Activation,Critical,Not Tested,Low,2024-11-13,2025-05-12,Analyst_B,0,Monitoring ongoing
+RSK-0036,CUST-0031,SME,Lahore-Gulberg,Rapid Fund Movement,High,Weak,High,2024-01-20,2025-01-19,Analyst_A,0,Monitoring ongoing
+RSK-0037,CUST-0101,Retail,Karachi-Clifton,High-Value Cash,Critical,Adequate,Medium,2025-02-10,2026-02-10,Analyst_B,1,Requires enhanced due diligence
+RSK-0038,CUST-0177,Retail,Faisalabad-Central,Unusual Velocity,Medium,Adequate,Low,2024-03-15,2025-03-15,Analyst_A,0,Escalated for review
+RSK-0039,CUST-0104,SME,Lahore-Gulberg,Sanctioned Entity,Low,Adequate,High,2024-04-15,2025-04-15,Analyst_A,1,Controls adequate
+RSK-0040,CUST-0131,Retail,Lahore-Gulberg,Unusual Velocity,Medium,Adequate,Low,2024-01-16,2024-07-14,Compliance_Team,0,Requires enhanced due diligence
+RSK-0041,CUST-0055,Retail,Faisalabad-Central,Structuring,Medium,Not Tested,Medium,2024-09-04,2025-03-03,Analyst_A,0,Requires enhanced due diligence
+RSK-0042,CUST-0014,Retail,Karachi-Clifton,High-Value Cash,Medium,Not Tested,Medium,2024-04-19,2025-04-19,Analyst_C,0,Escalated for review
+RSK-0043,CUST-0032,Priority,Islamabad-Blue Area,AML Suspicion,High,Adequate,High,2024-01-28,2024-04-27,Analyst_A,0,Requires enhanced due diligence
+RSK-0044,CUST-0158,Corporate,Lahore-Gulberg,Sanctioned Entity,Low,Weak,Medium,2025-03-03,2025-06-01,Analyst_C,0,Requires enhanced due diligence
+RSK-0045,CUST-0011,SME,Faisalabad-Central,Sanctioned Entity,Medium,Not Tested,Medium,2024-02-17,2025-02-16,Compliance_Team,0,Requires enhanced due diligence
+RSK-0046,CUST-0057,Islamic,Karachi-Clifton,Sanctioned Entity,Medium,Weak,Low,2024-08-04,2025-08-04,Compliance_Team,0,Controls adequate
+RSK-0047,CUST-0148,SME,Karachi-Main,Dormant Account Activation,Low,Not Tested,Low,2024-05-21,2024-11-17,Analyst_C,1,Escalated for review
+RSK-0048,CUST-0088,Priority,Faisalabad-Central,Rapid Fund Movement,Low,Adequate,Medium,2025-02-09,2026-02-09,Compliance_Team,1,Escalated for review
+RSK-0049,CUST-0037,Priority,Karachi-Main,Sanctioned Entity,High,Strong,Low,2024-05-17,2024-11-13,Compliance_Team,0,Monitoring ongoing
+RSK-0050,CUST-0159,SME,Islamabad-Blue Area,AML Suspicion,High,Adequate,Medium,2024-04-13,2024-07-12,Analyst_C,1,Requires enhanced due diligence
+RSK-0051,CUST-0060,SME,Faisalabad-Central,Structuring,Low,Weak,High,2025-03-08,2025-09-04,Analyst_C,1,Monitoring ongoing
+RSK-0052,CUST-0155,Retail,Faisalabad-Central,Cross-Border Alert,Low,Adequate,Low,2024-08-26,2025-02-22,Analyst_B,0,Controls adequate
+RSK-0053,CUST-0007,SME,Faisalabad-Central,Dormant Account Activation,High,Not Tested,Medium,2024-01-17,2024-07-15,Analyst_C,0,Monitoring ongoing
+RSK-0054,CUST-0154,Corporate,Faisalabad-Central,Sanctioned Entity,High,Strong,Low,2024-10-01,2025-03-30,Analyst_B,0,Controls adequate
+RSK-0055,CUST-0151,Islamic,Karachi-Clifton,Dormant Account Activation,Medium,Not Tested,High,2024-10-25,2025-10-25,Analyst_C,0,Requires enhanced due diligence
+RSK-0056,CUST-0185,SME,Faisalabad-Central,High-Value Cash,Medium,Not Tested,Low,2024-09-07,2025-03-06,Analyst_C,1,Controls adequate
+RSK-0057,CUST-0090,Corporate,Karachi-Clifton,Structuring,Critical,Strong,High,2024-07-12,2025-07-12,Analyst_A,0,Monitoring ongoing
+RSK-0058,CUST-0028,Priority,Islamabad-Blue Area,Structuring,Low,Adequate,Medium,2025-03-12,2025-09-08,Compliance_Team,0,Monitoring ongoing
+RSK-0059,CUST-0157,Retail,Karachi-Main,Unusual Velocity,Critical,Weak,Low,2024-01-01,2024-03-31,Analyst_C,0,Escalated for review
+RSK-0060,CUST-0096,Retail,Faisalabad-Central,Cross-Border Alert,High,Weak,High,2025-03-08,2026-03-08,Compliance_Team,1,Controls adequate
+RSK-0061,CUST-0017,Corporate,Karachi-Clifton,Dormant Account Activation,Medium,Strong,Medium,2025-02-07,2025-05-08,Compliance_Team,0,Escalated for review
+RSK-0062,CUST-0112,Corporate,Karachi-Main,Cross-Border Alert,Low,Strong,Medium,2024-09-29,2024-12-28,Analyst_B,0,Monitoring ongoing
+RSK-0063,CUST-0025,SME,Quetta-Branch,Rapid Fund Movement,High,Strong,High,2025-01-16,2025-07-15,Compliance_Team,0,Escalated for review
+RSK-0064,CUST-0120,Corporate,Quetta-Branch,Cross-Border Alert,Critical,Weak,Medium,2024-07-05,2024-10-03,Analyst_B,0,Escalated for review
+RSK-0065,CUST-0198,SME,Karachi-Clifton,Rapid Fund Movement,Medium,Adequate,Medium,2025-01-16,2025-04-16,Analyst_A,0,Escalated for review
+RSK-0066,CUST-0062,Retail,Islamabad-Blue Area,Unusual Velocity,Critical,Adequate,High,2024-10-02,2024-12-31,Analyst_A,0,Requires enhanced due diligence
+RSK-0067,CUST-0001,Priority,Karachi-Clifton,High-Value Cash,Medium,Strong,High,2024-12-02,2025-12-02,Analyst_C,0,Controls adequate
+RSK-0068,CUST-0086,Corporate,Faisalabad-Central,Unusual Velocity,Critical,Strong,Low,2024-09-29,2025-09-29,Compliance_Team,0,Controls adequate
+RSK-0069,CUST-0061,Corporate,Lahore-Gulberg,Sanctioned Entity,Critical,Adequate,Medium,2024-09-24,2025-03-23,Analyst_C,1,Escalated for review
+RSK-0070,CUST-0027,Islamic,Lahore-Gulberg,Cross-Border Alert,High,Strong,High,2025-01-20,2025-07-19,Compliance_Team,0,Controls adequate
+RSK-0071,CUST-0043,Retail,Lahore-Gulberg,AML Suspicion,Medium,Weak,High,2024-02-17,2025-02-16,Analyst_A,0,Requires enhanced due diligence
+RSK-0072,CUST-0152,Priority,Lahore-Gulberg,Unusual Velocity,Low,Strong,High,2025-02-06,2026-02-06,Analyst_B,0,Requires enhanced due diligence
+RSK-0073,CUST-0081,Corporate,Karachi-Clifton,Unusual Velocity,Medium,Strong,High,2024-10-01,2025-10-01,Analyst_A,0,Escalated for review
+RSK-0074,CUST-0156,Priority,Karachi-Main,High-Value Cash,Medium,Weak,Low,2024-04-22,2024-07-21,Analyst_C,0,Requires enhanced due diligence
+RSK-0075,CUST-0049,Islamic,Quetta-Branch,Unusual Velocity,High,Adequate,Low,2024-04-09,2024-07-08,Analyst_C,0,Escalated for review
+RSK-0076,CUST-0133,Retail,Karachi-Clifton,Structuring,Critical,Not Tested,Medium,2024-02-28,2024-05-28,Analyst_B,1,Monitoring ongoing
+RSK-0077,CUST-0010,Retail,Karachi-Clifton,Dormant Account Activation,Low,Weak,High,2025-02-05,2026-02-05,Analyst_C,0,Controls adequate
+RSK-0078,CUST-0018,Priority,Lahore-Gulberg,Cross-Border Alert,Low,Adequate,High,2025-01-17,2025-04-17,Analyst_C,1,Monitoring ongoing
+RSK-0079,CUST-0142,Islamic,Lahore-Gulberg,Unusual Velocity,Low,Weak,Low,2024-11-15,2025-02-13,Analyst_B,0,Monitoring ongoing
+RSK-0080,CUST-0199,Corporate,Faisalabad-Central,Cross-Border Alert,Medium,Strong,Medium,2025-02-10,2026-02-10,Compliance_Team,0,Monitoring ongoing
+RSK-0081,CUST-0146,SME,Quetta-Branch,Rapid Fund Movement,Medium,Strong,Medium,2024-03-12,2024-06-10,Analyst_B,1,Monitoring ongoing
+RSK-0082,CUST-0161,SME,Karachi-Main,Sanctioned Entity,High,Not Tested,Medium,2024-05-11,2024-08-09,Analyst_C,0,Requires enhanced due diligence
+RSK-0083,CUST-0087,Retail,Karachi-Clifton,AML Suspicion,Low,Strong,Medium,2024-01-26,2024-07-24,Compliance_Team,0,Requires enhanced due diligence
+RSK-0084,CUST-0047,SME,Karachi-Clifton,Cross-Border Alert,Medium,Weak,Medium,2024-10-04,2025-01-02,Analyst_A,0,Requires enhanced due diligence
+RSK-0085,CUST-0083,Islamic,Karachi-Main,Unusual Velocity,Low,Weak,Low,2024-08-29,2025-08-29,Analyst_A,0,Monitoring ongoing
+RSK-0086,CUST-0019,Priority,Karachi-Clifton,Cross-Border Alert,High,Not Tested,Medium,2024-02-26,2024-08-24,Analyst_B,0,Escalated for review
+RSK-0087,CUST-0130,Islamic,Islamabad-Blue Area,Dormant Account Activation,Critical,Adequate,High,2024-10-07,2025-01-05,Analyst_B,1,Requires enhanced due diligence
+RSK-0088,CUST-0074,Priority,Karachi-Main,AML Suspicion,Low,Adequate,High,2024-11-23,2025-05-22,Analyst_B,0,Requires enhanced due diligence
+RSK-0089,CUST-0004,Priority,Quetta-Branch,Structuring,Low,Not Tested,Low,2024-02-09,2024-08-07,Analyst_A,0,Controls adequate
+RSK-0090,CUST-0085,Islamic,Lahore-Gulberg,Structuring,Critical,Not Tested,Medium,2024-11-11,2025-11-11,Compliance_Team,0,Escalated for review
+RSK-0091,CUST-0169,Retail,Lahore-Gulberg,High-Value Cash,High,Strong,High,2024-12-06,2025-12-06,Compliance_Team,0,Escalated for review
+RSK-0092,CUST-0163,Priority,Karachi-Main,High-Value Cash,High,Adequate,Medium,2024-10-04,2025-01-02,Analyst_B,1,Escalated for review
+RSK-0093,CUST-0075,Corporate,Faisalabad-Central,AML Suspicion,High,Not Tested,Medium,2024-01-09,2024-04-08,Analyst_C,0,Requires enhanced due diligence
+RSK-0094,CUST-0071,Islamic,Karachi-Clifton,Structuring,Critical,Weak,Low,2025-03-01,2025-05-30,Analyst_A,0,Requires enhanced due diligence
+RSK-0095,CUST-0109,Retail,Karachi-Clifton,Rapid Fund Movement,Low,Strong,Medium,2024-01-23,2024-04-22,Analyst_B,0,Requires enhanced due diligence
+RSK-0096,CUST-0056,Corporate,Islamabad-Blue Area,Dormant Account Activation,Medium,Weak,Medium,2024-07-18,2025-01-14,Compliance_Team,0,Controls adequate
+RSK-0097,CUST-0066,SME,Karachi-Clifton,Dormant Account Activation,High,Adequate,Low,2024-09-18,2024-12-17,Compliance_Team,0,Controls adequate
+RSK-0098,CUST-0171,Corporate,Faisalabad-Central,Sanctioned Entity,Medium,Adequate,High,2024-05-04,2025-05-04,Analyst_B,0,Escalated for review
+RSK-0099,CUST-0124,Priority,Karachi-Clifton,Rapid Fund Movement,Critical,Weak,Low,2024-03-09,2025-03-09,Analyst_C,1,Monitoring ongoing
+RSK-0100,CUST-0094,Corporate,Quetta-Branch,Rapid Fund Movement,Low,Adequate,Low,2025-02-26,2025-08-25,Analyst_C,0,Monitoring ongoing
+RSK-0101,CUST-0050,Corporate,Faisalabad-Central,Cross-Border Alert,Critical,Not Tested,Low,2024-10-19,2025-10-19,Analyst_B,0,Controls adequate
+RSK-0102,CUST-0134,Corporate,Quetta-Branch,Cross-Border Alert,Critical,Weak,High,2024-07-14,2024-10-12,Analyst_A,1,Requires enhanced due diligence
+RSK-0103,CUST-0041,SME,Karachi-Clifton,Structuring,High,Strong,Medium,2024-02-15,2025-02-14,Analyst_C,1,Escalated for review
+RSK-0104,CUST-0068,SME,Karachi-Clifton,High-Value Cash,Medium,Not Tested,Medium,2024-08-17,2025-02-13,Analyst_B,0,Monitoring ongoing
+RSK-0105,CUST-0103,Islamic,Quetta-Branch,Cross-Border Alert,Low,Not Tested,Medium,2024-05-02,2025-05-02,Analyst_C,0,Controls adequate
+RSK-0106,CUST-0196,Islamic,Islamabad-Blue Area,Dormant Account Activation,Medium,Not Tested,Medium,2024-06-15,2025-06-15,Analyst_C,0,Requires enhanced due diligence
+RSK-0107,CUST-0022,Priority,Faisalabad-Central,Unusual Velocity,Low,Not Tested,Low,2025-01-12,2025-07-11,Compliance_Team,0,Requires enhanced due diligence
+RSK-0108,CUST-0099,Priority,Karachi-Clifton,Structuring,Low,Strong,Medium,2024-06-24,2025-06-24,Compliance_Team,0,Escalated for review
+RSK-0109,CUST-0114,Corporate,Faisalabad-Central,Sanctioned Entity,Low,Weak,Low,2024-02-16,2025-02-15,Compliance_Team,0,Requires enhanced due diligence
+RSK-0110,CUST-0197,Corporate,Faisalabad-Central,AML Suspicion,Critical,Adequate,High,2024-10-20,2025-10-20,Analyst_B,0,Monitoring ongoing
+RSK-0111,CUST-0044,SME,Islamabad-Blue Area,Unusual Velocity,Low,Strong,Low,2024-01-16,2024-04-15,Analyst_A,0,Requires enhanced due diligence
+RSK-0112,CUST-0170,Islamic,Karachi-Clifton,High-Value Cash,High,Weak,Low,2024-10-20,2025-04-18,Analyst_A,0,Requires enhanced due diligence
+RSK-0113,CUST-0098,Islamic,Lahore-Gulberg,Unusual Velocity,Medium,Not Tested,Low,2025-03-15,2025-06-13,Analyst_B,0,Controls adequate
+RSK-0114,CUST-0182,Priority,Lahore-Gulberg,Rapid Fund Movement,Critical,Not Tested,High,2024-05-25,2024-11-21,Analyst_B,0,Controls adequate
+RSK-0115,CUST-0129,SME,Islamabad-Blue Area,Cross-Border Alert,Critical,Adequate,High,2025-01-08,2025-07-07,Analyst_A,0,Monitoring ongoing
+RSK-0116,CUST-0079,Retail,Lahore-Gulberg,Sanctioned Entity,Critical,Strong,Medium,2024-07-22,2025-07-22,Analyst_A,0,Escalated for review
+RSK-0117,CUST-0126,Corporate,Islamabad-Blue Area,AML Suspicion,Critical,Strong,High,2025-03-31,2026-03-31,Analyst_C,0,Controls adequate
+RSK-0118,CUST-0164,Retail,Faisalabad-Central,Dormant Account Activation,Critical,Weak,Low,2025-02-20,2025-05-21,Analyst_C,0,Requires enhanced due diligence
+RSK-0119,CUST-0051,Priority,Islamabad-Blue Area,Structuring,Critical,Weak,High,2024-07-10,2025-07-10,Analyst_A,0,Escalated for review
+RSK-0120,CUST-0067,Priority,Karachi-Clifton,Rapid Fund Movement,High,Adequate,Medium,2024-05-20,2024-11-16,Analyst_B,0,Escalated for review
