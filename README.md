@@ -1,4 +1,4 @@
-# ðŸ¦ Compliance & Risk Data Tracker Framework
+# ¦ Compliance & Risk Data Tracker Framework
 ### Transaction Anomaly Detection Â· Risk Register Â· Remediation Audit Trail
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
